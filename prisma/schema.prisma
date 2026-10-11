@@ -1,0 +1,68 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum TempleLinkType {
+  ring
+  cross
+}
+
+model Temple {
+  id             String   @id @default(cuid())
+  slug           String   @unique
+  name           String
+  nameKannada    String
+  town           String
+  district       String
+  region         String
+  lat            Float
+  lng            Float
+  yearBuilt      String
+  century        String
+  patron         String
+  deity          String
+  unescoStatus   String
+  summary        String
+  history        String
+  architecture   String[]
+  visitInfo      String
+  heroImageId    String?
+  ringOrder      Int      @default(0)
+  summaryKannada String?
+  historyKannada String?
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+
+  images   TempleImage[]
+  linksFrom TempleLink[] @relation("FromTemple")
+  linksTo   TempleLink[] @relation("ToTemple")
+}
+
+model TempleImage {
+  id       String  @id @default(cuid())
+  templeId String
+  temple   Temple  @relation(fields: [templeId], references: [id], onDelete: Cascade)
+  url      String
+  alt      String
+  credit   String
+  order    Int     @default(0)
+  isHero   Boolean @default(false)
+
+  @@index([templeId])
+}
+
+model TempleLink {
+  fromId String
+  toId   String
+  type   TempleLinkType
+  from   Temple         @relation("FromTemple", fields: [fromId], references: [id], onDelete: Cascade)
+  to     Temple         @relation("ToTemple", fields: [toId], references: [id], onDelete: Cascade)
+
+  @@id([fromId, toId, type])
+  @@index([toId])
+}

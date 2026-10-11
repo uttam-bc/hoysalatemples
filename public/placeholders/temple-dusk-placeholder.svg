@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-label="Placeholder temple photograph  not a real site image">
+  <title>PLACEHOLDER  dusk temple photograph (not a real image)</title>
+  <defs>
+    <linearGradient id="dusk" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0b0c12"/>
+      <stop offset="55%" stop-color="#1c2030"/>
+      <stop offset="100%" stop-color="#b07512"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#dusk)"/>
+  <g fill="#e8c36a" opacity="0.55">
+    <circle cx="180" cy="90" r="1.2"/>
+    <circle cx="420" cy="60" r="1"/>
+    <circle cx="710" cy="110" r="1.4"/>
+    <circle cx="980" cy="70" r="1"/>
+    <circle cx="1240" cy="95" r="1.2"/>
+    <circle cx="1460" cy="50" r="0.9"/>
+  </g>
+  <!-- Distant stellate shrine silhouette; labelled placeholder only -->
+  <g transform="translate(800 620)" fill="#12141c">
+    <rect x="-220" y="40" width="440" height="180"/>
+    <polygon points="0,-210 28,-40 210,-80 80,10 210,140 28,80 0,250 -28,80 -210,140 -80,10 -210,-80 -28,-40"/>
+    <rect x="-70" y="-10" width="140" height="230"/>
+    <polygon points="0,-120 -90,20 90,20"/>
+  </g>
+  <text x="800" y="940" text-anchor="middle" fill="#c4bba8" font-size="22" font-family="Georgia, serif" letter-spacing="0.2em">PLACEHOLDER PHOTO</text>
+</svg>

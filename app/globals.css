@@ -1,0 +1,168 @@
+@import "tailwindcss";
+@config "../tailwind.config.ts";
+
+:root {
+  /* Night indigo-charcoal */
+  --night-950: #0b0c12;
+  --night-900: #12141c;
+  --night-800: #1c2030;
+
+  /* Soapstone grey-green, five steps */
+  --soapstone-100: #d7ddd4;
+  --soapstone-200: #b8c2b4;
+  --soapstone-300: #8f9c8c;
+  --soapstone-400: #6b7868;
+  --soapstone-500: #4a5448;
+
+  /* Lamp ochre / saffron + glow */
+  --lamp-400: #e8c36a;
+  --lamp-500: #d4a017;
+  --lamp-600: #b07512;
+  --lamp-glow: rgba(212, 160, 23, 0.35);
+
+  /* Bone off-white + muted */
+  --bone: #f3ead8;
+  --bone-muted: #c4bba8;
+
+  /* Motion — deliberate, not bouncy */
+  --ease-carved: cubic-bezier(0.22, 0.61, 0.36, 1);
+  --duration-carved: 280ms;
+  --duration-carved-slow: 560ms;
+
+  /* Spacing + chiseled radii */
+  --space-xs: 0.35rem;
+  --space-sm: 0.7rem;
+  --space-md: 1.25rem;
+  --space-lg: 2.25rem;
+  --space-xl: 4rem;
+  --radius-chisel-sm: 2px;
+  --radius-chisel: 4px;
+
+  /* Carved-in / carved-out shadows */
+  --shadow-carved-in:
+    inset 0 2px 4px rgba(0, 0, 0, 0.55), inset 0 -1px 0 rgba(232, 195, 106, 0.08);
+  --shadow-carved-out:
+    0 1px 0 rgba(243, 234, 216, 0.08), 0 8px 24px rgba(0, 0, 0, 0.45);
+  --shadow-lamp: 0 0 24px var(--lamp-glow);
+
+  /* Fluid type scale */
+  --type-h1: clamp(2.25rem, 1.4rem + 4vw, 4.5rem);
+  --type-h2: clamp(1.75rem, 1.2rem + 2.2vw, 2.75rem);
+  --type-h3: clamp(1.35rem, 1.1rem + 1.1vw, 1.85rem);
+  --type-h4: clamp(1.1rem, 1rem + 0.5vw, 1.35rem);
+  --type-body: clamp(1rem, 0.95rem + 0.25vw, 1.125rem);
+  --type-caption: clamp(0.75rem, 0.72rem + 0.15vw, 0.875rem);
+}
+
+@theme inline {
+  --color-night-950: var(--night-950);
+  --color-night-900: var(--night-900);
+  --color-night-800: var(--night-800);
+  --color-soapstone-100: var(--soapstone-100);
+  --color-soapstone-200: var(--soapstone-200);
+  --color-soapstone-300: var(--soapstone-300);
+  --color-soapstone-400: var(--soapstone-400);
+  --color-soapstone-500: var(--soapstone-500);
+  --color-lamp-400: var(--lamp-400);
+  --color-lamp-500: var(--lamp-500);
+  --color-lamp-600: var(--lamp-600);
+  --color-lamp-glow: var(--lamp-glow);
+  --color-bone: var(--bone);
+  --color-bone-muted: var(--bone-muted);
+}
+
+html {
+  background: var(--night-950);
+  color: var(--bone);
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  background: var(--night-950);
+  color: var(--bone);
+  font-family: var(--font-body), system-ui, sans-serif;
+  font-size: var(--type-body);
+  line-height: 1.65;
+}
+
+/* Low-opacity stone grain overlay */
+body::before {
+  content: "";
+  pointer-events: none;
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  opacity: 0.07;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  mix-blend-mode: overlay;
+}
+
+::selection {
+  background: var(--lamp-600);
+  color: var(--night-950);
+}
+
+:focus-visible {
+  outline: 2px solid var(--lamp-400);
+  outline-offset: 3px;
+  box-shadow: var(--shadow-lamp);
+}
+
+.skip-link {
+  position: absolute;
+  left: 1rem;
+  top: -4rem;
+  z-index: 100;
+  background: var(--lamp-500);
+  color: var(--night-950);
+  padding: 0.5rem 0.85rem;
+  border-radius: var(--radius-chisel);
+}
+
+.skip-link:focus {
+  top: 1rem;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--lamp-600) var(--night-900);
+}
+
+*::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+*::-webkit-scrollbar-track {
+  background: var(--night-900);
+}
+
+*::-webkit-scrollbar-thumb {
+  background: var(--lamp-600);
+  border-radius: var(--radius-chisel);
+  border: 2px solid var(--night-900);
+}
+
+.label-caps {
+  font-size: var(--type-caption);
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  font-variant: small-caps;
+  color: var(--lamp-400);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

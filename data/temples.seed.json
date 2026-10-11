@@ -1,0 +1,459 @@
+{
+  "temples": [
+    {
+      "slug": "chennakeshava-belur",
+      "name": "Chennakeshava Temple",
+      "nameKannada": "ಚೆನ್ನಕೇಶವ ದೇವಾಲಯ",
+      "town": "Belur",
+      "district": "Hassan",
+      "region": "Hassan",
+      "lat": 13.1629,
+      "lng": 75.8606,
+      "yearBuilt": "1117",
+      "century": "12th",
+      "patron": "Vishnuvardhana",
+      "deity": "Chennakeshava (Vishnu)",
+      "unescoStatus": "Inscribed 2023 (Sacred Ensembles of the Hoysalas)",
+      "summary": "DRAFT: Belur’s Chennakeshava temple is the ceremonial heart of the Hoysala stone tradition—an east-facing ekakuta shrine whose lathe-turned pillars and madanika brackets still read as a completed royal dedication. Unique among this set for its urban temple-street setting and the density of signed sculptor work on the outer walls.",
+      "history": "DRAFT: Foundation in 1117 is conventionally tied to Vishnuvardhana after his victories in the south. Later Hoysala and Vijayanagara additions enlarged the complex; the stellate vimana profile and soapstone narrative friezes remain the core twelfth-century statement. TODO: verify later patronage phases.",
+      "architecture": [
+        "Ekakuta stellate plan with a large pillared navaranga",
+        "Soapstone wall sculpture including signed madanikas",
+        "Lathe-turned pillars with ring mouldings"
+      ],
+      "visitInfo": "TODO: verify opening hours, ticket rules, and photography restrictions.",
+      "ringOrder": 1,
+      "summaryKannada": null,
+      "historyKannada": null,
+      "images": [
+        {
+          "url": "PLACEHOLDER: not a real image — Chennakeshava Belur hero",
+          "alt": "Placeholder panel for the Chennakeshava temple at Belur",
+          "credit": "PLACEHOLDER — no photograph licensed yet",
+          "order": 0,
+          "isHero": true
+        }
+      ]
+    },
+    {
+      "slug": "hoysaleswara-halebidu",
+      "name": "Hoysaleswara Temple",
+      "nameKannada": "ಹೊಯ್ಸಳೇಶ್ವರ ದೇವಾಲಯ",
+      "town": "Halebidu",
+      "district": "Hassan",
+      "region": "Hassan",
+      "lat": 13.2124,
+      "lng": 75.9911,
+      "yearBuilt": "c. 1121",
+      "century": "12th",
+      "patron": "Vishnuvardhana (with later Hoysala work)",
+      "deity": "Shiva (Hoysaleswara and Shantaleswara)",
+      "unescoStatus": "Inscribed 2023 (Sacred Ensembles of the Hoysalas)",
+      "summary": "DRAFT: Halebidu’s double shrine is the most expansive Hoysala sculptural programme in this collection—a dvikuta Shiva temple whose outer walls carry stacked friezes of animals, riders, and epic scenes. Unique here for the paired Hoysaleswara–Shantaleswara sanctums facing a shared court.",
+      "history": "DRAFT: Work began in the 1120s at Dwarasamudra, the Hoysala capital. The temple was never given a finished tower in the way Belur’s shrine was completed; invasions and later neglect left the superstructure incomplete. TODO: verify construction end-date.",
+      "architecture": [
+        "Dvikuta plan with two linga sanctums",
+        "Continuous narrative frieze bands around the platform",
+        "Nandi pavilions aligned to each shrine"
+      ],
+      "visitInfo": "TODO: verify opening hours, ASI ticket desk, and museum hours on site.",
+      "ringOrder": 2,
+      "summaryKannada": null,
+      "historyKannada": null,
+      "images": [
+        {
+          "url": "PLACEHOLDER: not a real image — Hoysaleswara Halebidu hero",
+          "alt": "Placeholder panel for the Hoysaleswara temple at Halebidu",
+          "credit": "PLACEHOLDER — no photograph licensed yet",
+          "order": 0,
+          "isHero": true
+        }
+      ]
+    },
+    {
+      "slug": "chennakesava-somanathapura",
+      "name": "Chennakesava Temple",
+      "nameKannada": "ಚೆನ್ನಕೇಶವ ದೇವಾಲಯ",
+      "town": "Somanathapura",
+      "district": "Mysuru",
+      "region": "Mysuru",
+      "lat": 12.2759,
+      "lng": 76.8816,
+      "yearBuilt": "1258",
+      "century": "13th",
+      "patron": "Somanatha Dandanayaka under Narasimha III",
+      "deity": "Keshava (Vishnu) with Janardhana and Venugopala",
+      "unescoStatus": "Inscribed 2023 (Sacred Ensembles of the Hoysalas)",
+      "summary": "DRAFT: Somanathapura is the late, crystalline statement of Hoysala Vaishnava planning—a trikuta temple inside a rectangular cloister, finished with three stellate towers. Unique in this set for its 1258 consecration inscription and the almost textbook symmetry of the three vimanas.",
+      "history": "DRAFT: Built by the general Somanatha during Narasimha III’s reign and consecrated in 1258. The temple stands in a walled courtyard with a pillared corridor; much of the original tower profile survives compared with many earlier Hoysala shrines. TODO: verify later repairs.",
+      "architecture": [
+        "Trikuta stellate vimanas on a raised jagati",
+        "Enclosed prakara with cloister",
+        "Fine late-style wall niches and lathe pillars"
+      ],
+      "visitInfo": "TODO: verify opening hours and whether the inner sanctums are accessible to visitors.",
+      "ringOrder": 3,
+      "summaryKannada": null,
+      "historyKannada": null,
+      "images": [
+        {
+          "url": "PLACEHOLDER: not a real image — Chennakesava Somanathapura hero",
+          "alt": "Placeholder panel for the Chennakesava temple at Somanathapura",
+          "credit": "PLACEHOLDER — no photograph licensed yet",
+          "order": 0,
+          "isHero": true
+        }
+      ]
+    },
+    {
+      "slug": "lakshminarasimha-javagal",
+      "name": "Lakshminarasimha Temple",
+      "nameKannada": "ಲಕ್ಷ್ಮೀನರಸಿಂಹ ದೇವಾಲಯ",
+      "town": "Javagal",
+      "district": "Hassan",
+      "region": "Hassan",
+      "lat": 13.296,
+      "lng": 76.052,
+      "yearBuilt": "TODO: verify",
+      "century": "13th",
+      "patron": "TODO: verify Hoysala patron",
+      "deity": "Lakshmi Narasimha",
+      "unescoStatus": "Not inscribed",
+      "summary": "DRAFT: Javagal’s Lakshminarasimha temple is a compact trikuta village shrine whose Narasimha cult image, not a royal capital setting, is the point of the visit. Unique in this set for sitting on the Hassan–Arasikere countryside circuit rather than a UNESCO ensemble.",
+      "history": "DRAFT: Typically dated to the later Hoysala period; inscriptions and exact foundation year need confirmation before they are stated as fact. The soapstone exterior still shows Hoysala wall treatment at a smaller civic scale. TODO: verify century and patron.",
+      "architecture": [
+        "Trikuta shrine typical of later Hoysala village temples",
+        "Raised platform with stellate projections TODO: verify",
+        "Interior lathe-turned pillars"
+      ],
+      "visitInfo": "TODO: verify coordinates, hours, and whether the temple is in active worship.",
+      "ringOrder": 4,
+      "summaryKannada": null,
+      "historyKannada": null,
+      "images": [
+        {
+          "url": "PLACEHOLDER: not a real image — Lakshminarasimha Javagal hero",
+          "alt": "Placeholder panel for the Lakshminarasimha temple at Javagal",
+          "credit": "PLACEHOLDER — no photograph licensed yet",
+          "order": 0,
+          "isHero": true
+        }
+      ]
+    },
+    {
+      "slug": "veera-narayana-belavadi",
+      "name": "Veera Narayana Temple",
+      "nameKannada": "ವೀರನಾರಾಯಣ ದೇವಾಲಯ",
+      "town": "Belavadi",
+      "district": "Chikkamagaluru",
+      "region": "Chikkamagaluru",
+      "lat": 13.2808,
+      "lng": 75.9994,
+      "yearBuilt": "c. 1200",
+      "century": "13th",
+      "patron": "TODO: verify (often linked to Veera Ballala II)",
+      "deity": "Veera Narayana (Vishnu)",
+      "unescoStatus": "Not inscribed",
+      "summary": "DRAFT: Belavadi’s Veera Narayana temple is a large trikuta Vishnu shrine famous for an unusually deep, well-lit navaranga rather than for capital-city scale. Unique here for the way three shrines and an elongated hall read as a single processional interior.",
+      "history": "DRAFT: Conventionally placed around 1200 in the Chikkamagaluru hinterland of Halebidu. Later modifications may have extended the hall; the main sanctum still houses Veera Narayana. TODO: verify patron and exact year.",
+      "architecture": [
+        "Large trikuta plan with an elongated hall",
+        "Lathe-turned pillars in a brightly lit navaranga",
+        "Ornate doorways on the three sanctums"
+      ],
+      "visitInfo": "TODO: verify visiting hours and living-temple access rules.",
+      "ringOrder": 5,
+      "summaryKannada": null,
+      "historyKannada": null,
+      "images": [
+        {
+          "url": "PLACEHOLDER: not a real image — Veera Narayana Belavadi hero",
+          "alt": "Placeholder panel for the Veera Narayana temple at Belavadi",
+          "credit": "PLACEHOLDER — no photograph licensed yet",
+          "order": 0,
+          "isHero": true
+        }
+      ]
+    },
+    {
+      "slug": "amrutesvara-amruthapura",
+      "name": "Amrutesvara Temple",
+      "nameKannada": "ಅಮೃತೇಶ್ವರ ದೇವಾಲಯ",
+      "town": "Amruthapura",
+      "district": "Chikkamagaluru",
+      "region": "Chikkamagaluru",
+      "lat": 13.741,
+      "lng": 75.73,
+      "yearBuilt": "1196",
+      "century": "12th",
+      "patron": "Amrutesvara Dandanayaka under Veera Ballala II",
+      "deity": "Shiva (Amrutesvara)",
+      "unescoStatus": "Not inscribed",
+      "summary": "DRAFT: Amruthapura’s Amrutesvara temple is an ekakuta Shiva shrine whose closed hall and Ramayana–Mahabharata wall panels are the reason to detour north of Tarikere. Unique in this set for the 1196 foundation inscription of a Hoysala general, not a king.",
+      "history": "DRAFT: Built in 1196 by commander Amrutesvara during Veera Ballala II’s reign, beside what is now a tank landscape. Sculptural bands wrap the stellate sanctum; later village use has kept the shrine in worship. TODO: verify later structural repairs.",
+      "architecture": [
+        "Ekakuta stellate vimana",
+        "Closed navaranga with narrative wall panels",
+        "Saptamatrika and epic friezes TODO: verify sequence"
+      ],
+      "visitInfo": "TODO: verify hours and approach from the Tarikere road.",
+      "ringOrder": 6,
+      "summaryKannada": null,
+      "historyKannada": null,
+      "images": [
+        {
+          "url": "PLACEHOLDER: not a real image — Amrutesvara Amruthapura hero",
+          "alt": "Placeholder panel for the Amrutesvara temple at Amruthapura",
+          "credit": "PLACEHOLDER — no photograph licensed yet",
+          "order": 0,
+          "isHero": true
+        }
+      ]
+    },
+    {
+      "slug": "lakshmi-devi-doddagaddavalli",
+      "name": "Lakshmi Devi Temple",
+      "nameKannada": "ಲಕ್ಷ್ಮೀ ದೇವಿ ದೇವಾಲಯ",
+      "town": "Doddagaddavalli",
+      "district": "Hassan",
+      "region": "Hassan",
+      "lat": 13.092,
+      "lng": 76.012,
+      "yearBuilt": "1113",
+      "century": "12th",
+      "patron": "Kullahana Rahuta and Sahaja Devi",
+      "deity": "Lakshmi Devi",
+      "unescoStatus": "Not inscribed",
+      "summary": "DRAFT: Doddagaddavalli is an early Hoysala chatushkuta—four shrines around a small courtyard—dedicated primarily to Lakshmi rather than to a royal Vishnu or Shiva cult. Unique in this set for its 1113 date, earlier than Belur’s great temple, and its compact walled square.",
+      "history": "DRAFT: Inscriptions credit a merchant couple, Kullahana Rahuta and Sahaja Devi, in 1113. The four-shrine layout and corner shrine to Bhairava are often cited as evidence of an experimental early plan. TODO: verify original superstructures.",
+      "architecture": [
+        "Chatushkuta four-shrine courtyard plan",
+        "Early soapstone construction at modest scale",
+        "Enclosed compound with a small tank nearby TODO: verify"
+      ],
+      "visitInfo": "TODO: verify access from the Hassan–Belur road and opening hours.",
+      "ringOrder": 7,
+      "summaryKannada": null,
+      "historyKannada": null,
+      "images": [
+        {
+          "url": "PLACEHOLDER: not a real image — Lakshmi Devi Doddagaddavalli hero",
+          "alt": "Placeholder panel for the Lakshmi Devi temple at Doddagaddavalli",
+          "credit": "PLACEHOLDER — no photograph licensed yet",
+          "order": 0,
+          "isHero": true
+        }
+      ]
+    },
+    {
+      "slug": "ishvara-arasikere",
+      "name": "Ishvara Temple",
+      "nameKannada": "ಈಶ್ವರ ದೇವಾಲಯ",
+      "town": "Arasikere",
+      "district": "Hassan",
+      "region": "Hassan",
+      "lat": 13.3139,
+      "lng": 76.256,
+      "yearBuilt": "c. 1220",
+      "century": "13th",
+      "patron": "TODO: verify Hoysala patron",
+      "deity": "Shiva (Ishvara)",
+      "unescoStatus": "Not inscribed",
+      "summary": "DRAFT: Arasikere’s Ishvara temple is known for a 16-pointed stellate hall that reads almost like a stone mandala beside a later town. Unique in this set for that unusually complex star plan rather than for a large sculptural programme.",
+      "history": "DRAFT: Generally dated to the early thirteenth century. The shrine stands in town rather than in open fields; later structures crowd the original Hoysala outline. TODO: verify exact year and patron.",
+      "architecture": [
+        "Highly stellate (often described as 16-pointed) hall plan",
+        "Ekakuta Shiva sanctum",
+        "Lathe-turned pillars inside the star hall"
+      ],
+      "visitInfo": "TODO: verify hours; temple is within Arasikere town.",
+      "ringOrder": 8,
+      "summaryKannada": null,
+      "historyKannada": null,
+      "images": [
+        {
+          "url": "PLACEHOLDER: not a real image — Ishvara Arasikere hero",
+          "alt": "Placeholder panel for the Ishvara temple at Arasikere",
+          "credit": "PLACEHOLDER — no photograph licensed yet",
+          "order": 0,
+          "isHero": true
+        }
+      ]
+    },
+    {
+      "slug": "brahmeshvara-kikkeri",
+      "name": "Brahmeshvara Temple",
+      "nameKannada": "ಬ್ರಹ್ಮೇಶ್ವರ ದೇವಾಲಯ",
+      "town": "Kikkeri",
+      "district": "Mandya",
+      "region": "Mandya",
+      "lat": 12.81,
+      "lng": 76.47,
+      "yearBuilt": "1171",
+      "century": "12th",
+      "patron": "TODO: verify (often a Hoysala officer under Narasimha I)",
+      "deity": "Shiva (Brahmeshvara)",
+      "unescoStatus": "Not inscribed",
+      "summary": "DRAFT: Kikkeri’s Brahmeshvara temple is a compact ekakuta Shiva shrine on the Mandya plateau, with a well-preserved soapstone exterior at village scale. Unique in this set as the southern Mandya counterpart to the Hassan cluster, not a capital monument.",
+      "history": "DRAFT: An inscriptional date around 1171 is commonly cited. The temple remains a local shrine; sculpture quality is Hoysala but the complex is modest. TODO: verify patron name and tower completeness.",
+      "architecture": [
+        "Ekakuta plan on a jagati",
+        "Soapstone wall sculpture at village scale",
+        "Open hall with lathe-turned columns TODO: verify"
+      ],
+      "visitInfo": "TODO: verify coordinates, hours, and road access from Krishnarajapet.",
+      "ringOrder": 9,
+      "summaryKannada": null,
+      "historyKannada": null,
+      "images": [
+        {
+          "url": "PLACEHOLDER: not a real image — Brahmeshvara Kikkeri hero",
+          "alt": "Placeholder panel for the Brahmeshvara temple at Kikkeri",
+          "credit": "PLACEHOLDER — no photograph licensed yet",
+          "order": 0,
+          "isHero": true
+        }
+      ]
+    },
+    {
+      "slug": "chennakesava-aralaguppe",
+      "name": "Chennakesava Temple",
+      "nameKannada": "ಚೆನ್ನಕೇಶವ ದೇವಾಲಯ",
+      "town": "Aralaguppe",
+      "district": "Tumakuru",
+      "region": "Tumakuru",
+      "lat": 13.265,
+      "lng": 76.72,
+      "yearBuilt": "TODO: verify",
+      "century": "13th",
+      "patron": "TODO: verify",
+      "deity": "Chennakesava (Vishnu)",
+      "unescoStatus": "Not inscribed",
+      "summary": "DRAFT: Aralaguppe’s Chennakesava temple is a Tumakuru-district Hoysala Vishnu shrine whose interior ceiling sculpture is often praised more than its outer massing. Unique in this set as the only Tumakuru-region stop, away from the Hassan–Mandya spine.",
+      "history": "DRAFT: Usually assigned to the thirteenth century; specific patron and consecration year are not stated here. The temple is a living village shrine. TODO: verify year, patron, and precise coordinates.",
+      "architecture": [
+        "Hoysala Vishnu shrine with notable ceiling panels TODO: verify",
+        "Lathe-turned pillars",
+        "Compact village compound"
+      ],
+      "visitInfo": "TODO: verify coordinates, hours, and the approach from Tiptur.",
+      "ringOrder": 10,
+      "summaryKannada": null,
+      "historyKannada": null,
+      "images": [
+        {
+          "url": "PLACEHOLDER: not a real image — Chennakesava Aralaguppe hero",
+          "alt": "Placeholder panel for the Chennakesava temple at Aralaguppe",
+          "credit": "PLACEHOLDER — no photograph licensed yet",
+          "order": 0,
+          "isHero": true
+        }
+      ]
+    },
+    {
+      "slug": "lakshminarayana-hosaholalu",
+      "name": "Lakshminarayana Temple",
+      "nameKannada": "ಲಕ್ಷ್ಮೀನಾರಾಯಣ ದೇವಾಲಯ",
+      "town": "Hosaholalu",
+      "district": "Mandya",
+      "region": "Mandya",
+      "lat": 12.643,
+      "lng": 76.476,
+      "yearBuilt": "c. 1250",
+      "century": "13th",
+      "patron": "TODO: verify (late Hoysala)",
+      "deity": "Lakshminarayana (Vishnu)",
+      "unescoStatus": "Not inscribed",
+      "summary": "DRAFT: Hosaholalu’s Lakshminarayana temple is a late Hoysala trikuta whose outer walls still carry a full set of deity niches in a quiet Mandya village. Unique in this set for how complete the wall-deity programme feels at a non-UNESCO site.",
+      "history": "DRAFT: Generally placed in the mid-thirteenth century, contemporary in spirit with Somanathapura though smaller. The temple continues in worship. TODO: verify exact year and patron.",
+      "architecture": [
+        "Trikuta plan with a shared hall",
+        "Dense wall niches of Vishnu forms",
+        "Stellate projections on the sanctums"
+      ],
+      "visitInfo": "TODO: verify hours and access via Krishnarajapet.",
+      "ringOrder": 11,
+      "summaryKannada": null,
+      "historyKannada": null,
+      "images": [
+        {
+          "url": "PLACEHOLDER: not a real image — Lakshminarayana Hosaholalu hero",
+          "alt": "Placeholder panel for the Lakshminarayana temple at Hosaholalu",
+          "credit": "PLACEHOLDER — no photograph licensed yet",
+          "order": 0,
+          "isHero": true
+        }
+      ]
+    },
+    {
+      "slug": "mallikarjuna-basaralu",
+      "name": "Mallikarjuna Temple",
+      "nameKannada": "ಮಲ್ಲಿಕಾರ್ಜುನ ದೇವಾಲಯ",
+      "town": "Basaralu",
+      "district": "Mandya",
+      "region": "Mandya",
+      "lat": 12.719,
+      "lng": 76.822,
+      "yearBuilt": "c. 1234",
+      "century": "13th",
+      "patron": "TODO: verify (often Harihara Dandanayaka)",
+      "deity": "Shiva (Mallikarjuna)",
+      "unescoStatus": "Not inscribed",
+      "summary": "DRAFT: Basaralu’s Mallikarjuna temple is a richly carved ekakuta Shiva shrine whose outer walls and miniature towers repay a slow circuit. Unique in this set for a dense ornamental programme on a single-sanctum village temple rather than a trikuta.",
+      "history": "DRAFT: A date around 1234 and a general named Harihara are commonly repeated; both should be checked against the inscription before being treated as settled. The shrine remains a local temple. TODO: verify patron.",
+      "architecture": [
+        "Ekakuta shrine with ornate soapstone walls",
+        "Miniature tower and niche sculpture",
+        "Raised jagati with a circumbulatory path"
+      ],
+      "visitInfo": "TODO: verify hours and the road from Mandya / Nagamangala.",
+      "ringOrder": 12,
+      "summaryKannada": null,
+      "historyKannada": null,
+      "images": [
+        {
+          "url": "PLACEHOLDER: not a real image — Mallikarjuna Basaralu hero",
+          "alt": "Placeholder panel for the Mallikarjuna temple at Basaralu",
+          "credit": "PLACEHOLDER — no photograph licensed yet",
+          "order": 0,
+          "isHero": true
+        }
+      ]
+    },
+    {
+      "slug": "buchesvara-koravangala",
+      "name": "Buchesvara Temple",
+      "nameKannada": "ಬೂಚೇಶ್ವರ ದೇವಾಲಯ",
+      "town": "Koravangala",
+      "district": "Hassan",
+      "region": "Hassan",
+      "lat": 13.07,
+      "lng": 76.15,
+      "yearBuilt": "1173",
+      "century": "12th",
+      "patron": "Buchi or Buchiraja under Ballala II TODO: verify",
+      "deity": "Shiva (Buchesvara)",
+      "unescoStatus": "Not inscribed",
+      "summary": "DRAFT: Koravangala’s Buchesvara temple is a Hassan-district Shiva shrine tied to a named officer rather than to the Belur–Halebidu court temples. Unique in this set for sitting just outside Hassan town, an easy extra stop that is not on the UNESCO list.",
+      "history": "DRAFT: An inscriptional date of 1173 is often given, with patronage by Buchi during the early years associated with Ballala II. The temple is modest, with a typical Hoysala soapstone exterior. TODO: verify exact coordinates and patron spelling.",
+      "architecture": [
+        "Hoysala ekakuta Shiva plan TODO: verify if extra shrines exist",
+        "Soapstone mouldings and wall sculpture",
+        "Village compound near Hassan"
+      ],
+      "visitInfo": "TODO: verify coordinates, hours, and the short drive from Hassan.",
+      "ringOrder": 13,
+      "summaryKannada": null,
+      "historyKannada": null,
+      "images": [
+        {
+          "url": "PLACEHOLDER: not a real image — Buchesvara Koravangala hero",
+          "alt": "Placeholder panel for the Buchesvara temple at Koravangala",
+          "credit": "PLACEHOLDER — no photograph licensed yet",
+          "order": 0,
+          "isHero": true
+        }
+      ]
+    }
+  ]
+}
