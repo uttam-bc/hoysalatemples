@@ -17,6 +17,9 @@
   "prisma": {
     "seed": "tsx prisma/seed.ts"
   },
+  "overrides": {
+    "@types/node": "$@types/node"
+  },
   "dependencies": {
     "@prisma/client": "^6.16.2",
     "d3-geo": "^3.1.1",
