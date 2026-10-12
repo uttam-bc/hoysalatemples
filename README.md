@@ -102,44 +102,7 @@ npm test
 npm run build
 ```
 
----
 
-## 🌐 Vercel Production Deployment
-
-### 1. Import Repository
-1. Push your repository to GitHub.
-2. Go to the [Vercel Dashboard](https://vercel.com/new) and click **Add New > Project**.
-3. Select the `hoysalatemples` repository.
-
-### 2. Configure Environment Variables
-In the Vercel project settings, configure the following environment variables:
-
-| Variable | Description | Example |
-| :--- | :--- | :--- |
-| `DATABASE_URL` | Neon Postgres Connection String | `postgresql://...neon.tech/neondb?sslmode=require` |
-| `NEXT_PUBLIC_SITE_URL` | Production domain | `https://hoysalatemples.online` |
-
-### 3. Build & Output Settings
-- **Framework Preset**: Next.js
-- **Build Command**: `next build` (Prisma client generates automatically via `postinstall` script)
-- **Install Command**: `npm install`
-
-### 4. Seed Production Database (One-time)
-From your local terminal, point to your production `DATABASE_URL` or use Vercel CLI / Neon Console to run:
-```bash
-npx prisma db push
-npm run db:seed
-```
-
-### 5. Custom Domain Setup (`hoysalatemples.online`)
-1. In your Vercel Project, navigate to **Settings > Domains**.
-2. Add `hoysalatemples.online` and `www.hoysalatemples.online`.
-3. Configure your DNS provider with the recommended records:
-   - **A Record**: `@` → `76.76.21.21`
-   - **CNAME Record**: `www` → `cname.vercel-dns.com`
-4. Wait for SSL certificate provisioning (handled automatically by Vercel Let's Encrypt).
-
----
 
 ## 📋 Prelaunch Checklist
 
