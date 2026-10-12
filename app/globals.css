@@ -166,3 +166,101 @@ body::before {
     scroll-behavior: auto !important;
   }
 }
+
+/* Kannada typography adjustments */
+html[lang="kn"],
+.lang-kn {
+  font-family: var(--font-kannada), serif;
+  line-height: 1.75;
+}
+
+html[lang="kn"] h1,
+html[lang="kn"] h2,
+html[lang="kn"] h3,
+html[lang="kn"] h4,
+html[lang="kn"] p {
+  line-height: 1.65;
+}
+
+/* Light Mode: Warm Soapstone at Dawn */
+html.theme-light {
+  --night-950: #f6f4ee;
+  --night-900: #eee9dc;
+  --night-800: #e2dbcb;
+  --bone: #141724;
+  --bone-muted: #534e45;
+  --lamp-400: #9e640b;
+  --lamp-500: #b07512;
+  --lamp-600: #c98616;
+  color-scheme: light;
+}
+
+html.theme-light body {
+  background-color: #f6f4ee !important;
+  color: #141724 !important;
+}
+
+html.theme-light .bg-\[\#0b0c12\] {
+  background-color: #f6f4ee !important;
+}
+
+html.theme-light .bg-\[\#0b0c12\]\/90 {
+  background-color: rgba(246, 244, 238, 0.92) !important;
+}
+
+html.theme-light .bg-\[\#10121a\] {
+  background-color: #ffffff !important;
+}
+
+html.theme-light .bg-\[\#10121a\]\/95 {
+  background-color: rgba(255, 255, 255, 0.95) !important;
+}
+
+html.theme-light .bg-\[\#10121a\]\/90 {
+  background-color: rgba(255, 255, 255, 0.92) !important;
+}
+
+html.theme-light .bg-\[\#10121a\]\/80 {
+  background-color: rgba(255, 255, 255, 0.85) !important;
+}
+
+html.theme-light .bg-\[\#141724\] {
+  background-color: #eee9dc !important;
+}
+
+html.theme-light .bg-\[\#1f2333\] {
+  background-color: #e5decb !important;
+}
+
+html.theme-light .bg-\[\#0e1017\] {
+  background-color: #fbf9f5 !important;
+}
+
+html.theme-light .text-\[\#ede7de\] {
+  color: #141724 !important;
+}
+
+html.theme-light .text-\[\#c4bba8\] {
+  color: #3b3730 !important;
+}
+
+html.theme-light .text-\[\#9e9787\] {
+  color: #5c564b !important;
+}
+
+html.theme-light .border-\[\#2d3244\] {
+  border-color: #d6cfbf !important;
+}
+
+html.theme-light .border-\[\#1f2333\] {
+  border-color: #e3dccd !important;
+}
+
+html.theme-light .border-\[\#1c2030\] {
+  border-color: #e8e1d3 !important;
+}
+
+html.theme-light .border-\[\#3b4259\] {
+  border-color: #c9c1af !important;
+}
+

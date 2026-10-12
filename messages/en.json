@@ -1,0 +1,75 @@
+{
+  "nav": {
+    "home": "Home",
+    "explore": "Explore",
+    "architecture": "Architecture",
+    "timeline": "Timeline",
+    "planRoute": "Plan a Route"
+  },
+  "hero": {
+    "title": "Hoysala Temples",
+    "subtitle": "Sacred Soapstone Sanctuaries of Karnataka",
+    "scrollCue": "Scroll to Enter"
+  },
+  "explore": {
+    "heading": "Explore the Sacred Network",
+    "subheading": "13 sanctuaries connected across Karnataka's historical landscape",
+    "filterRegion": "Region",
+    "filterCentury": "Century",
+    "allRegions": "All Regions",
+    "allCenturies": "All Centuries",
+    "reset": "Reset Filters",
+    "legendRing": "Sacred Ring Tour",
+    "legendCross": "Cross Connections",
+    "legendStar": "Sanctuary"
+  },
+  "temple": {
+    "consecration": "Consecration",
+    "patron": "Royal Patron",
+    "deity": "Sanctum Deity",
+    "territory": "Territory",
+    "unesco": "UNESCO Heritage",
+    "visualSurvey": "Visual Survey",
+    "chronicle": "Chronicle & Epigraphy",
+    "architecture": "Architectural Highlights",
+    "visiting": "Visiting Sanctuary & Access",
+    "connected": "Connected Sanctuaries",
+    "nextOnRing": "Next on Sacred Ring Tour",
+    "enterNext": "Enter Next Sanctuary",
+    "englishOnly": "English only"
+  },
+  "plan": {
+    "title": "Plan a Hoysala Circuit",
+    "startSanctuary": "Starting Sanctuary",
+    "stops": "Number of Stops",
+    "regionFocus": "Region Focus",
+    "recommended": "Recommended Path",
+    "alternative": "Alternative Circuit",
+    "openGoogleMaps": "Open in Google Maps",
+    "copyItinerary": "Copy Itinerary",
+    "shareLink": "Share Link",
+    "approxRoadDist": "approx. road distance"
+  },
+  "common": {
+    "skipToContent": "Skip to content",
+    "exploreMap": "Explore Map",
+    "viewDetails": "View Details"
+  },
+  "footer": {
+    "developedBy": "Independently developed by UTTAM B C",
+    "tagline": "A stone-and-lamplight digital sanctuary exploring the 11th–14th century soapstone architectural marvels of Karnataka.",
+    "contactMe": "Contact Me",
+    "email": "Email",
+    "linkedIn": "LinkedIn",
+    "instagram": "Instagram",
+    "quickLinks": "Quick Navigation",
+    "home": "Home",
+    "explore": "Explore Sanctuaries",
+    "architecture": "Stellate Architecture",
+    "timeline": "Chronology Timeline",
+    "plan": "Plan a Circuit",
+    "copyright": "All rights reserved.",
+    "domain": "hoysalatemples.online",
+    "unesco": "Celebrating the UNESCO World Heritage Sacred Ensembles of the Hoysalas."
+  }
+}

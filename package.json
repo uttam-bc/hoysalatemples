@@ -9,6 +9,7 @@
     "lint": "eslint",
     "test": "vitest run",
     "format": "prettier --write .",
+    "postinstall": "prisma generate",
     "db:push": "prisma db push",
     "db:seed": "prisma db seed",
     "db:studio": "prisma studio"

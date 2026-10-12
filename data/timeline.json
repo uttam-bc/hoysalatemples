@@ -1,0 +1,161 @@
+{
+  "eras": [
+    {
+      "id": "origins",
+      "period": "c. 1000 – 1108",
+      "eraTitle": "Dynastic Dawn in the Malnad Hills",
+      "eraTitleKannada": "ರಾಜವಂಶದ ಉದಯ",
+      "ruler": "Nripa Kama II & Vinayaditya",
+      "description": "Originating in the hill tracts of Angadi (Sasakapura) in the Western Ghats, early Hoysala chieftains served as Western Chalukyan feudatories. The foundational lore recounts young prince Sala striking down a leaping tiger on the command of his Jain ascetic guru ('Poy Sala!' — 'Strike, Sala!'), establishing the royal dynasty and emblem.",
+      "uncertaintyNote": "TODO: verify exact accession dates of 11th-century hill chieftains.",
+      "milestones": [
+        {
+          "year": "c. 1026",
+          "title": "Early Hill Stronghold Established",
+          "summary": "Nripa Kama II establishes territorial influence in Chikkamagaluru hills as a Western Chalukya tributary.",
+          "templeSlug": null
+        },
+        {
+          "year": "c. 1062",
+          "title": "Capital Shifted to Dwarasamudra (Halebidu)",
+          "summary": "Vinayaditya strengthens administration and establishes Dwarasamudra amid deep irrigation tanks.",
+          "templeSlug": null
+        }
+      ]
+    },
+    {
+      "id": "vishnuvardhana",
+      "period": "1108 – 1152",
+      "eraTitle": "The Monumental Age of Vishnuvardhana",
+      "eraTitleKannada": "ವಿಷ್ಣುವರ್ಧನನ ಸುವರ್ಣ ಯುಗ",
+      "ruler": "King Vishnuvardhana (Bittideva)",
+      "description": "Vishnuvardhana's military conquest of Talakadu from the Chola viceroys in 1116 triggered an architectural revolution. The king, guided by Sri Ramanujacharya, embraced Srivaishnavism while maintaining eclectic patronage of Shaivism and Jainism, commissioning monumental temples in soft chloritic schist.",
+      "uncertaintyNote": "TODO: verify exact completion dates of secondary navaranga additions.",
+      "milestones": [
+        {
+          "year": "1114",
+          "title": "Consecration of Lakshmi Devi Temple",
+          "summary": "Doddagaddavalli's rare quadruple (chatuskuta) sanctuary founded by merchant-patron Kulla and his wife Sahaja Devi.",
+          "templeSlug": "lakshmi-devi-doddagaddavalli"
+        },
+        {
+          "year": "1117",
+          "title": "Royal Dedication of Belur Chennakeshava",
+          "summary": "Consecration of the ekakuta Vijayanarayana (Chennakeshava) temple at Belur to commemorate triumph at Talakadu.",
+          "templeSlug": "chennakeshava-belur"
+        },
+        {
+          "year": "c. 1121",
+          "title": "Foundation of Halebidu Hoysaleswara",
+          "summary": "Construction begins on the colossal dvikuta double Shiva sanctuary under high officer Ketamalla.",
+          "templeSlug": "hoysaleswara-halebidu"
+        }
+      ]
+    },
+    {
+      "id": "ballala-ii",
+      "period": "1173 – 1220",
+      "eraTitle": "Imperial Sovereign Expansion under Ballala II",
+      "eraTitleKannada": "ವೀರ ಬಲ್ಲಾಳನ ಸಾರ್ವಭೌಮ ವಿಸ್ತರಣೆ",
+      "ruler": "Veera Ballala II",
+      "description": "Veera Ballala II declared total independence from the weakening Western Chalukyas, defeating the Kalachuris and Sevunas. Royal officers, generals (dandanayakas), and queens sponsored jewel-like temples featuring hyper-refined lathe-turned pillars and multi-banded narrative friezes across Karnataka.",
+      "uncertaintyNote": "TODO: verify dates of northern territorial expeditions.",
+      "milestones": [
+        {
+          "year": "1171",
+          "title": "Brahmeshvara Temple at Kikkeri",
+          "summary": "Commissioned by royal patroness Bammaladevi, exhibiting curved vimana contours.",
+          "templeSlug": "brahmeshvara-kikkeri"
+        },
+        {
+          "year": "1173",
+          "title": "Buchesvara Temple at Koravangala",
+          "summary": "Dedicated by royal officer Buchiraja on the exact coronation day of King Veera Ballala II.",
+          "templeSlug": "buchesvara-koravangala"
+        },
+        {
+          "year": "1196",
+          "title": "Amrutesvara Temple at Amruthapura",
+          "summary": "Amrutheshwara Dandanayaka commissions a sprawling temple featuring 140 ceiling panels depicting the epics.",
+          "templeSlug": "amrutesvara-amruthapura"
+        },
+        {
+          "year": "c. 1200",
+          "title": "Veera Narayana Temple at Belavadi",
+          "summary": "A grand trikuta sanctuary dedicated to Vishnu forms, built on an expansive stone platform.",
+          "templeSlug": "veera-narayana-belavadi"
+        },
+        {
+          "year": "c. 1220",
+          "title": "Ishvara Temple at Arasikere",
+          "summary": "Celebrated for its complex 16-point star open natyamandapa hall capped with a domical ceiling.",
+          "templeSlug": "ishvara-arasikere"
+        }
+      ]
+    },
+    {
+      "id": "narasimha-iii",
+      "period": "1234 – 1292",
+      "eraTitle": "Late Classical Zenith & Architectural Refinement",
+      "eraTitleKannada": "ನರಸಿಂಹ III ಮತ್ತು ಕಲೆಯ ಉತ್ತುಂಗ",
+      "ruler": "Somesvara & Narasimha III",
+      "description": "During the mid-to-late thirteenth century, the Hoysala court achieved mathematical perfection in trikuta stellate sanctuaries. Signed master sculptors, most notably Ruvari Mallitamma, covered entire temple enclosures with lace-like narrative reliefs and miniature vimana spires.",
+      "uncertaintyNote": "TODO: verify signature frequencies across rural secondary shrines.",
+      "milestones": [
+        {
+          "year": "1234",
+          "title": "Mallikarjuna Temple at Basaralu",
+          "summary": "Harihara Dandanayaka dedicates a rich trikuta temple carrying exquisite Mahabharata friezes.",
+          "templeSlug": "mallikarjuna-basaralu"
+        },
+        {
+          "year": "c. 1250",
+          "title": "Lakshminarasimha Temple at Javagal",
+          "summary": "Trikuta temple with extensive wall carvings attributed to the workshop of Mallitamma.",
+          "templeSlug": "lakshminarasimha-javagal"
+        },
+        {
+          "year": "c. 1250",
+          "title": "Lakshminarayana Temple at Hosaholalu",
+          "summary": "Fine trikuta plan with deeply undercut friezes and ornate ceiling coffers.",
+          "templeSlug": "lakshminarayana-hosaholalu"
+        },
+        {
+          "year": "c. 1250",
+          "title": "Chennakesava Temple at Aralaguppe",
+          "summary": "Compact stellate shrine featuring one of Karnataka's finest Ugra Narasimha wall relief sculptures.",
+          "templeSlug": "chennakesava-aralaguppe"
+        },
+        {
+          "year": "1258",
+          "title": "Consecration of Somanathapura Chennakesava",
+          "summary": "High commander Somanatha Dandanayaka consecrates a textbook trikuta masterpiece enclosed in a cloistered courtyard.",
+          "templeSlug": "chennakesava-somanathapura"
+        }
+      ]
+    },
+    {
+      "id": "decline",
+      "period": "1292 – 1343",
+      "eraTitle": "The Crucible Era & Transition to Vijayanagara",
+      "eraTitleKannada": "ಸಾಮ್ರಾಜ್ಯದ ಅಂತ್ಯ ಮತ್ತು ವಿಜಯನಗರ ಸ್ಥಾಪನೆ",
+      "ruler": "Veera Ballala III",
+      "description": "In 1311 and 1327, armies of the Delhi Sultanate under Malik Kafur and Muhammad bin Tughlaq raided and devastated the Hoysala capital of Dwarasamudra. King Veera Ballala III relocated his defensive court, organizing fierce resistance across southern India until falling at the Battle of Madurai in 1343. His commanders and artisans provided the direct administrative and architectural foundation for the emerging Vijayanagara Empire.",
+      "uncertaintyNote": "TODO: verify exact troop routes of 1327 Tughlaq incursion.",
+      "milestones": [
+        {
+          "year": "1311",
+          "title": "First Sacking of Dwarasamudra",
+          "summary": "Malik Kafur's expedition forces concessions from King Ballala III, damaging outer city walls.",
+          "templeSlug": null
+        },
+        {
+          "year": "1343",
+          "title": "Fall of Ballala III & Rise of Vijayanagara",
+          "summary": "Following Ballala III's demise, Hoysala territory, master stone guilds, and defenses merge into the Sangama brothers' fledgling Vijayanagara state.",
+          "templeSlug": null
+        }
+      ]
+    }
+  ]
+}

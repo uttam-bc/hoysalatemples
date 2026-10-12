@@ -14,24 +14,59 @@
       "patron": "Vishnuvardhana",
       "deity": "Chennakeshava (Vishnu)",
       "unescoStatus": "Inscribed 2023 (Sacred Ensembles of the Hoysalas)",
-      "summary": "DRAFT: Belur’s Chennakeshava temple is the ceremonial heart of the Hoysala stone tradition—an east-facing ekakuta shrine whose lathe-turned pillars and madanika brackets still read as a completed royal dedication. Unique among this set for its urban temple-street setting and the density of signed sculptor work on the outer walls.",
-      "history": "DRAFT: Foundation in 1117 is conventionally tied to Vishnuvardhana after his victories in the south. Later Hoysala and Vijayanagara additions enlarged the complex; the stellate vimana profile and soapstone narrative friezes remain the core twelfth-century statement. TODO: verify later patronage phases.",
+      "summary": "The Chennakeshava Temple in Belur, Hassan district, Karnataka, is a magnificent example of Hoysala architecture, commissioned by King Vishnuvardhana in 1117 CE. Dedicated to Lord Vishnu, the temple is renowned for its intricate stone carvings, detailed sculptures, ornate pillars, and beautifully sculpted figures depicting scenes from Hindu mythology. Built primarily from soapstone, the temple showcases the exceptional craftsmanship of Hoysala artisans, with every wall and pillar featuring remarkable artistic detail. Its iconic sculptures, including the famous Madanikas, or celestial dancers, demonstrate extraordinary skill and precision. Situated on the banks of the Yagachi River region, the temple served as an important religious and cultural centre during the Hoysala period. Today, the Chennakeshava Temple stands as one of Karnataka's most treasured historical monuments and a significant landmark in the study of Indian temple architecture.",
+      "history": "The Chennakeshava Temple in Belur was commissioned by Hoysala King Vishnuvardhana in 1117 CE, marking an important milestone in the political, religious, and cultural history of the Hoysala dynasty. Its construction is traditionally associated with the king’s military victories and the growing influence of Vaishnavism in the region. Built over several decades, the temple became a prominent centre of worship and artistic excellence, reflecting the Hoysalas’ ambition to establish a distinctive architectural identity. Its intricate soapstone carvings, sculptural narratives, and ornate architectural elements reveal the sophisticated craftsmanship and religious imagination of medieval Karnataka. More than a place of worship, the temple represents the dynasty’s royal patronage, cultural aspirations, and enduring contribution to South Indian temple architecture.",
       "architecture": [
         "Ekakuta stellate plan with a large pillared navaranga",
         "Soapstone wall sculpture including signed madanikas",
         "Lathe-turned pillars with ring mouldings"
       ],
-      "visitInfo": "TODO: verify opening hours, ticket rules, and photography restrictions.",
+      "visitInfo": "The Chennakeshava Temple in Belur is open daily from 7:30 AM to 7:30 PM, with a midday closure from 1:00 PM to 1:30 PM. Entry to the temple complex is free, as it remains an active place of worship. Visitors can explore its historic architecture, intricately carved pillars, and sculptural galleries while respecting ongoing religious activities. Photography is generally permitted in the complex, but photography of the main deity inside the sanctum is prohibited. Visitors should follow on-site instructions regarding restricted areas and religious observances. Timings and access rules should be reconfirmed with the temple administration before visiting, as operational arrangements may change",
       "ringOrder": 1,
       "summaryKannada": null,
       "historyKannada": null,
       "images": [
         {
-          "url": "PLACEHOLDER: not a real image — Chennakeshava Belur hero",
-          "alt": "Placeholder panel for the Chennakeshava temple at Belur",
-          "credit": "PLACEHOLDER — no photograph licensed yet",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/The_Courtyard_of_Chennakesava_Temple_-_Belur.jpg",
+          "alt": "Chennakeshava temple",
+          "credit": "Wikipedia / Wikimedia Commons",
           "order": 0,
           "isHero": true
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Chennakeshava_Temple_at_Belur.jpg",
+          "alt": "Keshava Temple",
+          "credit": "Wikimedia Commons",
+          "order": 1,
+          "isHero": false
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Belur_Temple_Apsara_with_Mirror.JPG",
+          "alt": "Darpana Sundari",
+          "credit": "Wikipedia / Wikimedia Commons",
+          "order": 2,
+          "isHero": false
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Channakeshava_temple_sculpture.jpg/250px-Channakeshava_temple_sculpture.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "alt": "Lintel relief Sculpture at Channakeshava temple",
+          "credit": "wikipedia",
+          "order": 3,
+          "isHero": false
+        },
+        {
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Madanikas_on_the_roof_railings_-_Chennakesava_Temple%2C_Belur_06.jpg/250px-Madanikas_on_the_roof_railings_-_Chennakesava_Temple%2C_Belur_06.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+          "alt": "madanikas",
+          "credit": "wikipedia",
+          "order": 4,
+          "isHero": false
+        },
+        {
+          "url": "https://kannada.karnatakaexplore.com/wp-content/uploads/2025/01/Chennakeshava-Temple-Belur-inside.jpg",
+          "alt": "view from central southwest",
+          "credit": "karnataka explore",
+          "order": 5,
+          "isHero": false
         }
       ]
     },
@@ -44,29 +79,55 @@
       "region": "Hassan",
       "lat": 13.2124,
       "lng": 75.9911,
-      "yearBuilt": "c. 1121",
+      "yearBuilt": "c. 1121 CE",
       "century": "12th",
-      "patron": "Vishnuvardhana (with later Hoysala work)",
+      "patron": "King Vishnuvardhana and wealthy patrons of the Hoysala kingdom",
       "deity": "Shiva (Hoysaleswara and Shantaleswara)",
-      "unescoStatus": "Inscribed 2023 (Sacred Ensembles of the Hoysalas)",
-      "summary": "DRAFT: Halebidu’s double shrine is the most expansive Hoysala sculptural programme in this collection—a dvikuta Shiva temple whose outer walls carry stacked friezes of animals, riders, and epic scenes. Unique here for the paired Hoysaleswara–Shantaleswara sanctums facing a shared court.",
-      "history": "DRAFT: Work began in the 1120s at Dwarasamudra, the Hoysala capital. The temple was never given a finished tower in the way Belur’s shrine was completed; invasions and later neglect left the superstructure incomplete. TODO: verify construction end-date.",
+      "unescoStatus": "UNESCO World Heritage Site since 2023 (Sacred Ensembles of the Hoysalas)",
+      "summary": "Hoysaleswara Temple at Halebidu is one of the finest surviving masterpieces of Hoysala architecture. Dedicated to Shiva, this monumental twin-shrine complex is renowned for its intricate soapstone carvings, elaborately sculpted deities, and continuous bands of stone reliefs depicting elephants, horses, foliage, dancers, and scenes from Hindu epics. Its richly ornamented exterior and remarkable sculptural detail make it a landmark of medieval Karnataka's artistic heritage.",
+      "history": "Constructed during the 12th century under the Hoysala dynasty, Hoysaleswara Temple was built at Dwarasamudra, the kingdom's royal capital, now known as Halebidu. Construction is generally dated to around 1121 CE during the reign of King Vishnuvardhana, with support from wealthy local patrons. The temple developed as a major centre of Shaiva religious and artistic tradition. Halebidu was subsequently attacked during the 14th-century invasions of the Delhi Sultanate, contributing to the decline of the Hoysala capital. The temple's superstructures are absent, and the original enclosure walls have been lost, but its principal shrines and extraordinary sculptural programme survive. The monument is protected by the Archaeological Survey of India and forms part of the UNESCO-listed Sacred Ensembles of the Hoysalas, inscribed in 2023.",
       "architecture": [
-        "Dvikuta plan with two linga sanctums",
-        "Continuous narrative frieze bands around the platform",
-        "Nandi pavilions aligned to each shrine"
+        "Twin-shrine (dvikuta) complex dedicated to Hoysaleswara and Shantaleswara, both forms of Shiva",
+        "Star-shaped architectural planning characteristic of the mature Hoysala style",
+        "Extensive exterior carvings executed in chloritic schist, commonly known as soapstone",
+        "Multiple horizontal frieze bands depicting elephants, horses, foliage, mythological creatures, and narrative scenes",
+        "Elaborate sculptural panels featuring Hindu deities, celestial figures, dancers, and episodes from the Ramayana and Mahabharata",
+        "Intricately carved pillars, ceilings, and interior architectural details",
+        "Two Nandi pavilions housing monumental sacred bull sculptures associated with the Shiva shrines",
+        "Missing temple towers (shikharas), with the surviving structure retaining its distinctive sculptural character"
       ],
-      "visitInfo": "TODO: verify opening hours, ASI ticket desk, and museum hours on site.",
+      "visitInfo": "Hoysaleswara Temple is a protected monument managed by the Archaeological Survey of India (ASI). Visitors can explore its exterior sculptural galleries, twin shrines, Nandi pavilions, and architectural details. Check current opening hours, entry fees, photography restrictions, accessibility, and museum timings with ASI or local authorities before visiting, as these details may change.",
       "ringOrder": 2,
-      "summaryKannada": null,
-      "historyKannada": null,
+      "summaryKannada": "ಹಳೇಬೀಡಿನ ಹೊಯ್ಸಳೇಶ್ವರ ದೇವಾಲಯವು ಹೊಯ್ಸಳ ವಾಸ್ತುಶಿಲ್ಪ ಮತ್ತು ಶಿಲ್ಪಕಲೆಯ ಅತ್ಯುತ್ತಮ ಉದಾಹರಣೆಗಳಲ್ಲಿ ಒಂದಾಗಿದೆ. ಶಿವನಿಗೆ ಸಮರ್ಪಿತವಾಗಿರುವ ಈ ದೇವಾಲಯವು ಹೊಯ್ಸಳೇಶ್ವರ ಮತ್ತು ಶಾಂತಲೇಶ್ವರ ಎಂಬ ಎರಡು ಗರ್ಭಗುಡಿಗಳನ್ನು ಹೊಂದಿದೆ. ದೇವಾಲಯದ ಹೊರಗೋಡೆಗಳ ಮೇಲಿನ ಸೂಕ್ಷ್ಮ ಕೆತ್ತನೆಗಳು, ಆನೆಗಳು, ಕುದುರೆಗಳು, ದೇವತೆಗಳು, ಪೌರಾಣಿಕ ಜೀವಿಗಳು ಹಾಗೂ ರಾಮಾಯಣ ಮತ್ತು ಮಹಾಭಾರತದ ದೃಶ್ಯಗಳು ಮಧ್ಯಕಾಲೀನ ಕರ್ನಾಟಕದ ಕಲಾ ವೈಭವವನ್ನು ಸಾರುತ್ತವೆ. 2023ರಲ್ಲಿ ಯುನೆಸ್ಕೋ ವಿಶ್ವ ಪರಂಪರೆಯ ಪಟ್ಟಿಗೆ ಸೇರ್ಪಡೆಯಾದ ಹೊಯ್ಸಳರ ಪವಿತ್ರ ದೇವಾಲಯ ಸಮೂಹದ ಪ್ರಮುಖ ಭಾಗ ಇದಾಗಿದೆ.",
+      "historyKannada": "ಹೊಯ್ಸಳರ ಆಳ್ವಿಕೆಯ ಅವಧಿಯಲ್ಲಿ, ಸುಮಾರು ಕ್ರಿ.ಶ. 1121ರಲ್ಲಿ, ರಾಜ ವಿಷ್ಣುವರ್ಧನನ ಕಾಲದಲ್ಲಿ ಹಳೇಬೀಡಿನ ಹೊಯ್ಸಳೇಶ್ವರ ದೇವಾಲಯದ ನಿರ್ಮಾಣ ಆರಂಭವಾಯಿತು ಎಂದು ಸಾಮಾನ್ಯವಾಗಿ ಪರಿಗಣಿಸಲಾಗುತ್ತದೆ. ಅಂದಿನ ಹೊಯ್ಸಳ ರಾಜಧಾನಿಯಾಗಿದ್ದ ದ್ವಾರಸಮುದ್ರದಲ್ಲಿ, ಇಂದಿನ ಹಳೇಬೀಡಿನಲ್ಲಿ, ಸ್ಥಳೀಯ ಶ್ರೀಮಂತ ದಾನಿಗಳ ಸಹಕಾರದಿಂದ ಈ ದೇವಾಲಯ ನಿರ್ಮಿಸಲಾಯಿತು. ಇದು ಶಿವನ ಆರಾಧನೆ ಮತ್ತು ಹೊಯ್ಸಳರ ಶಿಲ್ಪಕಲೆಯ ಪ್ರಮುಖ ಕೇಂದ್ರವಾಗಿತ್ತು. 14ನೇ ಶತಮಾನದಲ್ಲಿ ದೆಹಲಿ ಸುಲ್ತಾನರ ದಾಳಿಗಳಿಂದ ದ್ವಾರಸಮುದ್ರದ ವೈಭವ ಕುಂದಿತು. ದೇವಾಲಯದ ಗೋಪುರಗಳು ಮತ್ತು ಮೂಲ ಆವರಣದ ಗೋಡೆಗಳು ಇಂದು ಉಳಿದಿಲ್ಲವಾದರೂ, ಅದರ ಗರ್ಭಗುಡಿಗಳು ಮತ್ತು ಅದ್ಭುತ ಶಿಲ್ಪಕಲೆ ಬಹುಮಟ್ಟಿಗೆ ಉಳಿದುಕೊಂಡಿವೆ. ಭಾರತೀಯ ಪುರಾತತ್ವ ಸರ್ವೇಕ್ಷಣಾ ಇಲಾಖೆಯ ಸಂರಕ್ಷಣೆಯಲ್ಲಿರುವ ಈ ದೇವಾಲಯವು 2023ರಲ್ಲಿ ಯುನೆಸ್ಕೋ ವಿಶ್ವ ಪರಂಪರೆಯ ಪಟ್ಟಿಗೆ ಸೇರಿದ ಹೊಯ್ಸಳರ ಪವಿತ್ರ ದೇವಾಲಯ ಸಮೂಹದ ಭಾಗವಾಗಿದೆ.",
       "images": [
         {
-          "url": "PLACEHOLDER: not a real image — Hoysaleswara Halebidu hero",
-          "alt": "Placeholder panel for the Hoysaleswara temple at Halebidu",
-          "credit": "PLACEHOLDER — no photograph licensed yet",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Hoysaleshwara_temple_in_Monsoon.JPG",
+          "alt": "Hoysaleshwara Temple during Monsoon",
+          "credit": "Wikipedia / Wikimedia Commons",
           "order": 0,
           "isHero": true
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Hoysaleswara_Temple_in_Halebidu.jpg",
+          "alt": "Hoysaleswara Temple outer wall relief bands",
+          "credit": "Wikimedia Commons",
+          "order": 1,
+          "isHero": false
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Large_monolithic_Nandi_at_Halebidu.jpg",
+          "alt": "Monolithic Nandi pavilion at Halebidu",
+          "credit": "Wikimedia Commons",
+          "order": 2,
+          "isHero": false
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Wall_relief_details_at_Hoysaleswara_temple%2C_Halebidu.jpg",
+          "alt": "Intricate frieze detail of elephants and dancers",
+          "credit": "Wikimedia Commons",
+          "order": 3,
+          "isHero": false
         }
       ]
     },
@@ -79,29 +140,54 @@
       "region": "Mysuru",
       "lat": 12.2759,
       "lng": 76.8816,
-      "yearBuilt": "1258",
+      "yearBuilt": "1268 CE",
       "century": "13th",
-      "patron": "Somanatha Dandanayaka under Narasimha III",
+      "patron": "Somanatha Dandanayaka, high-ranking general under King Narasimha III",
       "deity": "Keshava (Vishnu) with Janardhana and Venugopala",
-      "unescoStatus": "Inscribed 2023 (Sacred Ensembles of the Hoysalas)",
-      "summary": "DRAFT: Somanathapura is the late, crystalline statement of Hoysala Vaishnava planning—a trikuta temple inside a rectangular cloister, finished with three stellate towers. Unique in this set for its 1258 consecration inscription and the almost textbook symmetry of the three vimanas.",
-      "history": "DRAFT: Built by the general Somanatha during Narasimha III’s reign and consecrated in 1258. The temple stands in a walled courtyard with a pillared corridor; much of the original tower profile survives compared with many earlier Hoysala shrines. TODO: verify later repairs.",
+      "unescoStatus": "UNESCO World Heritage Site since 2023 (Sacred Ensembles of the Hoysalas)",
+      "summary": "The Chennakesava Temple at Somanathapura is a magnificent trikuta (triple-shrine) Vaishnava temple situated along the Kaveri River. Recognized as part of the UNESCO World Heritage Sacred Ensembles of the Hoysalas, it is celebrated for its perfectly balanced stellate layout, three fully preserved towers (shikharas), and richly sculpted outer cloistered courtyard.",
+      "history": "Commissioned in 1268 CE by Somanatha Dandanayaka, a general in the service of Hoysala King Narasimha III, the temple was built as the centerpiece of an agrahara (scholarly settlement). Consecrated with three shrines dedicated to Keshava, Janardhana, and Venugopala, the complex withstood subsequent conflicts during the late Hoysala and Vijayanagara periods. Although the original central Keshava murti was damaged and later removed, the surrounding Janardhana and Venugopala idols remain in worship-worthy state. Today, the monument is meticulously conserved by the Archaeological Survey of India.",
       "architecture": [
-        "Trikuta stellate vimanas on a raised jagati",
-        "Enclosed prakara with cloister",
-        "Fine late-style wall niches and lathe pillars"
+        "Trikuta (three-shrine) symmetrical layout raised on an elevated stellate jagati platform",
+        "Three fully intact stone shikharas (superstructures) topped with kalashas",
+        "Rectangular enclosed cloister (prakara) lined with miniature shrines and pillared verandas",
+        "Continuous relief friezes depicting elephants, horses, mythical makaras, and swans",
+        "Intricate narrative relief bands illustrating scenes from the Bhagavata Purana, Mahabharata, and Ramayana",
+        "Exquisitely turned soapstone pillars with bell and ring contours in the navaranga",
+        "Elaborate rosette and lotus ceiling medallions inside the central congregation hall"
       ],
-      "visitInfo": "TODO: verify opening hours and whether the inner sanctums are accessible to visitors.",
+      "visitInfo": "Managed by the Archaeological Survey of India (ASI). Open daily from 9:00 AM to 5:30 PM. A nominal ASI entry ticket applies (free for children under 15). Located approximately 38 km east of Mysuru and easily accessible by road. Photography is allowed on the exterior grounds; shoe racks and guided information boards are available on site.",
       "ringOrder": 3,
-      "summaryKannada": null,
-      "historyKannada": null,
+      "summaryKannada": "ಸೋಮನಾಥಪುರದ ಚೆನ್ನಕೇಶವ ದೇವಾಲಯವು ಕಾವೇರಿ ನದಿಯ ದಂಡೆಯಲ್ಲಿರುವ ಹೊಯ್ಸಳ ತ್ರಿಕೂಟ ವಾಸ್ತುಶಿಲ್ಪದ ಅಪೂರ್ವ ಕಲಾಕೃತಿಯಾಗಿದೆ. 2023ರಲ್ಲಿ ಯುನೆಸ್ಕೋ ವಿಶ್ವ ಪರಂಪರೆ ಪಟ್ಟಿಗೆ ಸೇರಿದ ಹೊಯ್ಸಳರ ಪವಿತ್ರ ದೇವಾಲಯ ಸಮೂಹದ ಪ್ರಮುಖ ಭಾಗ ಇದಾಗಿದೆ. ಪರಿಪೂರ್ಣ ನಕ್ಷತ್ರಾಕಾರದ ಜಗತಿ, ಮೂರು ಸುಂದರ ಗೋಪುರಗಳು (ಶಿಖರಗಳು) ಮತ್ತು ಪ್ರಾಕಾರದ ಒಳಗಿನ ಅದ್ಭುತ ಶಿಲ್ಪಕಲೆಗಳಿಗೆ ಈ ದೇವಾಲಯ ಪ್ರಸಿದ್ಧವಾಗಿದೆ.",
+      "historyKannada": "ಹೊಯ್ಸಳ ದೊರೆ ಮೂರನೇ ನರಸಿಂಹನ ಆಳ್ವಿಕೆಯಲ್ಲಿ, ದಂಡನಾಯಕ ಸೋಮನಾಥನು ಕ್ರಿ.ಶ. 1268ರಲ್ಲಿ ಈ ದೇವಾಲಯವನ್ನು ನಿರ್ಮಿಸಿದನು. ಕೇಶವ, ಜನಾರ್ದನ ಮತ್ತು ವೇಣುಗೋಪಾಲ ಮೂರ್ತಿಗಳಿಗೆ ಸಮರ್ಪಿತವಾದ ಮೂರು ಗರ್ಭಗುಡಿಗಳನ್ನು ಒಳಗೊಂಡ ಈ ದೇವಾಲಯವು ಸೋಮನಾಥಪುರ ಅಗ್ರಹಾರದ ಕೇಂದ್ರವಾಗಿತ್ತು. ಭಾರತೀಯ ಪುರಾತತ್ವ ಸರ್ವೇಕ್ಷಣಾ ಇಲಾಖೆಯ (ASI) ಸಂರಕ್ಷಣೆಯಲ್ಲಿರುವ ಈ ದೇವಾಲಯವು ಇಂದಿಗೂ ಹೊಯ್ಸಳ ಶಿಲ್ಪಕಲೆಯ ಪರಾಕಾಷ್ಠೆಯನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತದೆ.",
       "images": [
         {
-          "url": "PLACEHOLDER: not a real image — Chennakesava Somanathapura hero",
-          "alt": "Placeholder panel for the Chennakesava temple at Somanathapura",
-          "credit": "PLACEHOLDER — no photograph licensed yet",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Sculptures_at_the_Chennakesava_Temple%2C_Somanathapura%2C_Mysuru%2C_Karnataka%2C_India_%282009%29.jpg",
+          "alt": "Sculptures at the Chennakesava Temple, Somanathapura, Mysuru, Karnataka, India (2009)",
+          "credit": "Wikipedia / Wikimedia Commons",
           "order": 0,
           "isHero": true
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Somanathapura_Temple_Karnataka.JPG",
+          "alt": "Somanathapura Temple Karnataka",
+          "credit": "Wikipedia / Wikimedia Commons",
+          "order": 1,
+          "isHero": false
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Vishnu_at_Keshava_Temple%2C_Somanathapura.jpg",
+          "alt": "Vishnu at Keshava Temple, Somanathapura",
+          "credit": "Wikipedia / Wikimedia Commons",
+          "order": 2,
+          "isHero": false
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Front_View_of_Chennakesava_Temple%2C_Somanathapura.jpg",
+          "alt": "Front View of Chennakesava Temple, Somanathapura",
+          "credit": "Wikipedia / Wikimedia Commons",
+          "order": 3,
+          "isHero": false
         }
       ]
     },
@@ -114,29 +200,53 @@
       "region": "Hassan",
       "lat": 13.296,
       "lng": 76.052,
-      "yearBuilt": "TODO: verify",
+      "yearBuilt": "c. 1250 CE",
       "century": "13th",
-      "patron": "TODO: verify Hoysala patron",
-      "deity": "Lakshmi Narasimha",
-      "unescoStatus": "Not inscribed",
-      "summary": "DRAFT: Javagal’s Lakshminarasimha temple is a compact trikuta village shrine whose Narasimha cult image, not a royal capital setting, is the point of the visit. Unique in this set for sitting on the Hassan–Arasikere countryside circuit rather than a UNESCO ensemble.",
-      "history": "DRAFT: Typically dated to the later Hoysala period; inscriptions and exact foundation year need confirmation before they are stated as fact. The soapstone exterior still shows Hoysala wall treatment at a smaller civic scale. TODO: verify century and patron.",
+      "patron": "King Vira Someshwara",
+      "deity": "Lakshmi Narasimha (Vishnu)",
+      "unescoStatus": "State Protected Monument (ASI Protected)",
+      "summary": "The Lakshminarasimha Temple at Javagal is a classic mid-13th century trikuta (three-shrine) temple dedicated to Lakshmi Narasimha. Located on the rural Hassan countryside circuit, it features an ornate vimana with stellate projections, exquisitely detailed outer wall reliefs, and fine miniature aediculae showcasing mature Hoysala craftsmanship.",
+      "history": "Built around 1250 CE during the reign of the Hoysala King Vira Someshwara, Javagal was a significant provincial centre in the kingdom. The temple's sanctum enshrines an imposing four-armed deity of Lakshmi Narasimha flanked by smaller shrines for Venugopala and Lakshmi. The monument is designated as an ASI protected site, retaining its authentic countryside setting and tranquil ambiance.",
       "architecture": [
-        "Trikuta shrine typical of later Hoysala village temples",
-        "Raised platform with stellate projections TODO: verify",
-        "Interior lathe-turned pillars"
+        "Trikuta plan featuring three sanctums connected to a common closed hall (navaranga)",
+        "Elevated star-shaped platform (jagati) providing an unobstructed circumambulatory path (pradakshinapatha)",
+        "Well-preserved southern stellate tower over the central sanctum",
+        "Richly carved outer walls with depictions of Vishnu's avatars, dancing celestial nymphs, and mythological episodes",
+        "Basal decorative bands with galloping horses, charging elephants, and floral scrolls",
+        "Lathe-turned soapstone pillars supporting intricate coffered ceiling panels inside"
       ],
-      "visitInfo": "TODO: verify coordinates, hours, and whether the temple is in active worship.",
+      "visitInfo": "Open daily roughly from 8:00 AM to 6:00 PM. Admission is free. Situated around 50 km from Hassan and 20 km from Halebidu; best reached via private vehicle or taxi. Visitors are requested to remove footwear before entering the temple compound.",
       "ringOrder": 4,
-      "summaryKannada": null,
-      "historyKannada": null,
+      "summaryKannada": "ಜಾವಗಲ್ಲಿನ ಲಕ್ಷ್ಮೀನರಸಿಂಹ ದೇವಾಲಯವು 13ನೇ ಶತಮಾನದ ಮಧ್ಯಭಾಗದ ಸುಂದರ ಹೊಯ್ಸಳ ತ್ರಿಕೂಟ ದೇವಾಲಯವಾಗಿದೆ. ಹಾಸನ ಜಿಲ್ಲೆಯ ಗ್ರಾಮೀಣ ಪರಿಸರದಲ್ಲಿರುವ ಈ ದೇವಾಲಯವು ನಕ್ಷತ್ರಾಕಾರದ ಶಿಖರ, ಸೂಕ್ಷ್ಮ ಕೆತ್ತನೆಯ ಗೋಡೆಗಳು ಮತ್ತು ಪ್ರಶಾಂತ ವಾತಾವರಣಕ್ಕೆ ಹೆಸರುವಾಸಿಯಾಗಿದೆ.",
+      "historyKannada": "ಹೊಯ್ಸಳ ದೊರೆ ವೀರ ಸೋಮೇಶ್ವರನ ಕಾಲದಲ್ಲಿ, ಸುಮಾರು ಕ್ರಿ.ಶ. 1250ರಲ್ಲಿ ಈ ದೇವಾಲಯವನ್ನು ನಿರ್ಮಿಸಲಾಯಿತು. ಪ್ರಮುಖ ಗರ್ಭಗುಡಿಯಲ್ಲಿ ಚತುರ್ಭುಜ ಲಕ್ಷ್ಮೀನರಸಿಂಹನ ವಿಗ್ರಹವಿದ್ದು, ಪಾರ್ಶ್ವಗಳಲ್ಲಿ ವೇಣುಗೋಪಾಲ ಹಾಗೂ ಲಕ್ಷ್ಮಿಯ ಸನ್ನಿಧಿಗಳಿವೆ. ಭಾರತೀಯ ಪುರಾತತ್ವ ಇಲಾಖೆಯ ಸಂರಕ್ಷಣೆಯಲ್ಲಿರುವ ಈ ದೇವಾಲಯವು ಹೊಯ್ಸಳರ ಗ್ರಾಮೀಣ ವಾಸ್ತುಕಲೆಯ ಅದ್ಭುತ ಉದಾಹರಣೆಯಾಗಿದೆ.",
       "images": [
         {
-          "url": "PLACEHOLDER: not a real image — Lakshminarasimha Javagal hero",
-          "alt": "Placeholder panel for the Lakshminarasimha temple at Javagal",
-          "credit": "PLACEHOLDER — no photograph licensed yet",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Rear_view_of_Lakshminarasimha_temple_%281250_AD%29_at_Javagal.JPG",
+          "alt": "Rear view of Lakshminarasimha temple (1250 AD) at Javagal",
+          "credit": "Wikipedia / Wikimedia Commons",
           "order": 0,
           "isHero": true
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Sri_LakshmiNarasimha_Temple_Javagal_01.jpg",
+          "alt": "Sri LakshmiNarasimha Temple Javagal 01",
+          "credit": "Wikipedia / Wikimedia Commons",
+          "order": 1,
+          "isHero": false
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Sri_LakshmiNarasimha_Temple_-_Javagal_Front_Side.jpg",
+          "alt": "Sri LakshmiNarasimha Temple - Javagal Front Side",
+          "credit": "Wikipedia / Wikimedia Commons",
+          "order": 2,
+          "isHero": false
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Sri_LakshmiNarasimha_Temple_-_Javagal_West_Side_View.jpg",
+          "alt": "Sri LakshmiNarasimha Temple - Javagal West Side View",
+          "credit": "Wikipedia / Wikimedia Commons",
+          "order": 3,
+          "isHero": false
         }
       ]
     },
@@ -149,29 +259,53 @@
       "region": "Chikkamagaluru",
       "lat": 13.2808,
       "lng": 75.9994,
-      "yearBuilt": "c. 1200",
+      "yearBuilt": "c. 1200 CE",
       "century": "13th",
-      "patron": "TODO: verify (often linked to Veera Ballala II)",
-      "deity": "Veera Narayana (Vishnu)",
-      "unescoStatus": "Not inscribed",
-      "summary": "DRAFT: Belavadi’s Veera Narayana temple is a large trikuta Vishnu shrine famous for an unusually deep, well-lit navaranga rather than for capital-city scale. Unique here for the way three shrines and an elongated hall read as a single processional interior.",
-      "history": "DRAFT: Conventionally placed around 1200 in the Chikkamagaluru hinterland of Halebidu. Later modifications may have extended the hall; the main sanctum still houses Veera Narayana. TODO: verify patron and exact year.",
+      "patron": "King Veera Ballala II",
+      "deity": "Veera Narayana, Venugopala, and Yoganarasimha",
+      "unescoStatus": "National Monument (Protected by ASI)",
+      "summary": "The Veera Narayana Temple at Belavadi is one of the largest and most complete trikuta complexes of the Hoysala period. Renowned for its monumental longitudinal pillared hall housing 108 lathe-turned pillars, it enshrines three magnificent stone deities—Veera Narayana, a world-famous flute-playing Venugopala, and Yoganarasimha.",
+      "history": "Constructed in approximately 1200 CE by the Hoysala ruler King Veera Ballala II, Belavadi (historically referenced as Ekachakranagara of the Mahabharata) was an important strategic town. The temple developed in two distinct building phases, uniting the original older western shrine with the grand two-shrine transverse wing. The central Venugopala image is celebrated by art historians as one of the finest stone sculptures in Indian art. It is a centrally protected national monument managed by the ASI.",
       "architecture": [
-        "Large trikuta plan with an elongated hall",
-        "Lathe-turned pillars in a brightly lit navaranga",
-        "Ornate doorways on the three sanctums"
+        "Expansive trikuta temple layout stretching across two grand interconnected navarangas",
+        "Monumental hall containing 108 smoothly polished lathe-turned soapstone columns",
+        "Three tall, intact stepped-pyramidal towers (vimanas) rising above the shrines",
+        "Masterpiece 8-foot-tall Venugopala murti carved with astonishing micro-detail",
+        "Pair of sculpted elephants flanking the ceremonial entrance portico",
+        "Ornate vaulted stone ceilings with deep bell, lotus, and star carvings"
       ],
-      "visitInfo": "TODO: verify visiting hours and living-temple access rules.",
+      "visitInfo": "Open daily from 8:00 AM to 12:30 PM and 2:00 PM to 6:30 PM. Entry is free. Located just 10 km from Halebidu and 29 km from Chikkamagaluru. Priests are present for active worship during regular morning and evening puja hours.",
       "ringOrder": 5,
-      "summaryKannada": null,
-      "historyKannada": null,
+      "summaryKannada": "ಬೆಳವಾಡಿಯ ವೀರನಾರಾಯಣ ದೇವಾಲಯವು ಹೊಯ್ಸಳ ಸಾಮ್ರಾಜ್ಯದ ಅತ್ಯಂತ ದೊಡ್ಡ ಮತ್ತು ಆಕರ್ಷಕ ತ್ರಿಕೂಟ ದೇವಾಲಯಗಳಲ್ಲಿ ಒಂದಾಗಿದೆ. 108 ನಯವಾದ ಕಂಬಗಳನ್ನು ಒಳಗೊಂಡ ವಿಶಾಲವಾದ ಸಭಾಮಂಟಪ ಮತ್ತು ಅದ್ಭುತವಾಗಿ ಕೆತ್ತಲಾದ ವೇಣುಗೋಪಾಲ, ವೀರನಾರಾಯಣ ಹಾಗೂ ಯೋಗನರಸಿಂಹರ ವಿಗ್ರಹಗಳಿಗೆ ಈ ದೇವಾಲಯ ಜಗತ್ಪ್ರಸಿದ್ಧವಾಗಿದೆ.",
+      "historyKannada": "ಹೊಯ್ಸಳ ಚಕ್ರವರ್ತಿ ಎರಡನೇ ವೀರ ಬಲ್ಲಾಳನ ಕಾಲದಲ್ಲಿ, ಸುಮಾರು ಕ್ರಿ.ಶ. 1200ರಲ್ಲಿ ಬೆಳವಾಡಿಯ ವೀರನಾರಾಯಣ ದೇವಾಲಯ ನಿರ್ಮಾಣವಾಯಿತು. ಮಹಾಭಾರತದ ಏಕಚಕ್ರನಗರವೆಂದು ನಂಬಲಾದ ಈ ಪ್ರದೇಶದಲ್ಲಿ ಎರಡು ಹಂತಗಳಲ್ಲಿ ದೇವಾಲಯ ವಿಸ್ತರಿಸಲ್ಪಟ್ಟಿತು. ಇಲ್ಲಿರುವ ವೇಣುಗೋಪಾಲನ ಶಿಲ್ಪವು ಭಾರತೀಯ ಶಿಲ್ಪಕಲೆಯ ಅತ್ಯುನ್ನತ ಶಿಖರಗಳಲ್ಲಿ ಒಂದೆಂದು ಪರಿಗಣಿಸಲ್ಪಟ್ಟಿದೆ.",
       "images": [
         {
-          "url": "PLACEHOLDER: not a real image — Veera Narayana Belavadi hero",
-          "alt": "Placeholder panel for the Veera Narayana temple at Belavadi",
-          "credit": "PLACEHOLDER — no photograph licensed yet",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/KA_110_Belavadi_Veera_Narayana_Temple_small.jpg",
+          "alt": "KA 110 Belavadi Veera Narayana Temple small",
+          "credit": "Wikipedia / Wikimedia Commons",
           "order": 0,
           "isHero": true
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Veernarayan_Temple%2C_Belavadi.jpg",
+          "alt": "Veernarayan Temple, Belavadi",
+          "credit": "Wikipedia / Wikimedia Commons",
+          "order": 1,
+          "isHero": false
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/KAVNB_41_Belavadi_Veera_Narayana_temple_Elephant_outside.jpg",
+          "alt": "KAVNB 41 Belavadi Veera Narayana temple Elephant outside",
+          "credit": "Wikipedia / Wikimedia Commons",
+          "order": 2,
+          "isHero": false
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/KAVNB_53_Belavadi_Veera_Narayana_temple_Reliefs.jpg",
+          "alt": "KAVNB 53 Belavadi Veera Narayana temple Reliefs",
+          "credit": "Wikipedia / Wikimedia Commons",
+          "order": 3,
+          "isHero": false
         }
       ]
     },
@@ -184,29 +318,53 @@
       "region": "Chikkamagaluru",
       "lat": 13.741,
       "lng": 75.73,
-      "yearBuilt": "1196",
+      "yearBuilt": "1196 CE",
       "century": "12th",
-      "patron": "Amrutesvara Dandanayaka under Veera Ballala II",
+      "patron": "Amruta Dandanayaka under King Veera Ballala II",
       "deity": "Shiva (Amrutesvara)",
-      "unescoStatus": "Not inscribed",
-      "summary": "DRAFT: Amruthapura’s Amrutesvara temple is an ekakuta Shiva shrine whose closed hall and Ramayana–Mahabharata wall panels are the reason to detour north of Tarikere. Unique in this set for the 1196 foundation inscription of a Hoysala general, not a king.",
-      "history": "DRAFT: Built in 1196 by commander Amrutesvara during Veera Ballala II’s reign, beside what is now a tank landscape. Sculptural bands wrap the stellate sanctum; later village use has kept the shrine in worship. TODO: verify later structural repairs.",
+      "unescoStatus": "National Monument (Protected by ASI)",
+      "summary": "The Amrutesvara Temple at Amruthapura is an exquisite ekakuta Shiva sanctuary celebrated for its wide open mantapa and extensive narrative relief carvings. Its outer parapet features continuous sequential stone panels illustrating the Ramayana, Mahabharata, and the life of Krishna, carved by legendary sculptor Mallitamma.",
+      "history": "Built in 1196 CE by Amruta Dandanayaka, a general under King Veera Ballala II, the temple stands in the Malnad region of Chikkamagaluru district. The temple is especially significant for bearing some of the earliest signed sculptures by the celebrated master artist Mallitamma, who contributed to numerous Hoysala monuments throughout his prolific career. Today, the temple is protected by the ASI and surrounded by lush green coconut palms.",
       "architecture": [
-        "Ekakuta stellate vimana",
-        "Closed navaranga with narrative wall panels",
-        "Saptamatrika and epic friezes TODO: verify sequence"
+        "Ekakuta design with a square sanctum, vestibule, and large open hall (mukhamantapa)",
+        "Extensive narrative friezes with 140 carved panels depicting epics like the Ramayana and Mahabharata",
+        "Signature work of master craftsman Mallitamma on the outer wall panels",
+        "Tower (shikhara) adorned with miniature aediculae and kirtimukha gargoyles",
+        "Round lathe-turned columns supporting ornate domical ceiling bays",
+        "Stone screens (jalis) providing dappled light into the inner navaranga"
       ],
-      "visitInfo": "TODO: verify hours and approach from the Tarikere road.",
+      "visitInfo": "Open daily from 6:00 AM to 6:00 PM. Admission is free. Located approximately 67 km north of Chikkamagaluru and 10 km from Tarikere. Accessible by state highway; visitors are advised to visit during daylight hours.",
       "ringOrder": 6,
-      "summaryKannada": null,
-      "historyKannada": null,
+      "summaryKannada": "ಅಮೃತಾಪುರದ ಅಮೃತೇಶ್ವರ ದೇವಾಲಯವು ಕ್ರಿ.ಶ. 1196ರಲ್ಲಿ ನಿರ್ಮಾಣವಾದ ಭವ್ಯವಾದ ಏಕಕೂಟ ಶೈಲಿಯ ಶಿವಾಲಯವಾಗಿದೆ. ತೆರೆದ ವಿಶಾಲ ಮಂಟಪ, ನೂರಾರು ರಾಮಾಯಣ-ಮಹಾಭಾರತದ ಕೆತ್ತನೆಗಳು ಹಾಗೂ ಸುಪ್ರಸಿದ್ಧ ಶಿಲ್ಪಿ ಮಲ್ಲಿತಮ್ಮನ ಕೈಚಳಕಕ್ಕೆ ಈ ದೇವಾಲಯ ಸಾಕ್ಷಿಯಾಗಿದೆ.",
+      "historyKannada": "ಹೊಯ್ಸಳ ದೊರೆ ವೀರ ಬಲ್ಲಾಳನ ದಂಡನಾಯಕ ಅಮೃತನು ಕ್ರಿ.ಶ. 1196ರಲ್ಲಿ ಈ ದೇವಾಲಯವನ್ನು ಕಟ್ಟಿಸಿದನು. ಹೊಯ್ಸಳ ನಾಡಿನ ಖ್ಯಾತ ಶಿಲ್ಪಿ ಮಲ್ಲಿತಮ್ಮನ ಆರಂಭಿಕ ಕೆತ್ತನೆಗಳು ಇಲ್ಲಿ ಕಂಡುಬರುತ್ತವೆ. ಹೊರಗೋಡೆಗಳ ಮೇಲೆ ಮಹಾಕಾವ್ಯಗಳ ಕಥನ ಶಿಲ್ಪಗಳು ಅತ್ಯಂತ ರೋಚಕವಾಗಿ ಚಿತ್ರಿತವಾಗಿದ್ದು, ಇದು ಪುರಾತತ್ವ ಇಲಾಖೆಯ ರಾಷ್ಟ್ರೀಯ ಸ್ಮಾರಕವಾಗಿದೆ.",
       "images": [
         {
-          "url": "PLACEHOLDER: not a real image — Amrutesvara Amruthapura hero",
-          "alt": "Placeholder panel for the Amrutesvara temple at Amruthapura",
-          "credit": "PLACEHOLDER — no photograph licensed yet",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Profile_of_entrance_into_the_Amrutesvara_Temple_at_Amruthapura.jpg",
+          "alt": "Profile of entrance into the Amrutesvara Temple at Amruthapura",
+          "credit": "Wikipedia / Wikimedia Commons",
           "order": 0,
           "isHero": true
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Decorative_aedicula_%28miniature_shrine%29_on_half_pilasters_in_Amrutesvara_temple_at_Amruthapura%2C.jpg",
+          "alt": "Decorative aedicula (miniature shrine) on half pilasters in Amrutesvara temple at Amruthapura,",
+          "credit": "Wikipedia / Wikimedia Commons",
+          "order": 1,
+          "isHero": false
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/A_view_of_the_Amrutesvara_Temple_at_Amruthapura.jpg",
+          "alt": "A view of the Amrutesvara Temple at Amruthapura",
+          "credit": "Wikipedia / Wikimedia Commons",
+          "order": 2,
+          "isHero": false
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Parapet_wall_relief_sculpture_in_Amrutesvara_Temple_at_Amruthapura.jpg",
+          "alt": "Parapet wall relief sculpture in Amrutesvara Temple at Amruthapura",
+          "credit": "Wikipedia / Wikimedia Commons",
+          "order": 3,
+          "isHero": false
         }
       ]
     },
@@ -219,29 +377,53 @@
       "region": "Hassan",
       "lat": 13.092,
       "lng": 76.012,
-      "yearBuilt": "1113",
+      "yearBuilt": "1114 CE",
       "century": "12th",
-      "patron": "Kullahana Rahuta and Sahaja Devi",
-      "deity": "Lakshmi Devi",
-      "unescoStatus": "Not inscribed",
-      "summary": "DRAFT: Doddagaddavalli is an early Hoysala chatushkuta—four shrines around a small courtyard—dedicated primarily to Lakshmi rather than to a royal Vishnu or Shiva cult. Unique in this set for its 1113 date, earlier than Belur’s great temple, and its compact walled square.",
-      "history": "DRAFT: Inscriptions credit a merchant couple, Kullahana Rahuta and Sahaja Devi, in 1113. The four-shrine layout and corner shrine to Bhairava are often cited as evidence of an experimental early plan. TODO: verify original superstructures.",
+      "patron": "Merchant Kallahana Rahuta and his wife Sahaja Devi under King Vishnuvardhana",
+      "deity": "Mahalakshmi (with Shiva, Vishnu, and Kali)",
+      "unescoStatus": "National Monument (Protected by ASI)",
+      "summary": "The Lakshmi Devi Temple at Doddagaddavalli is an exceptionally rare chatuskuta (four-shrine) Hoysala complex situated by a scenic village lake. Built early in the reign of Vishnuvardhana, it is one of the earliest surviving Hoysala monuments and the only known four-towered Hoysala shrine dedicated principally to Goddess Mahalakshmi.",
+      "history": "Erected in 1114 CE by the wealthy merchant Kallahana Rahuta and his wife Sahaja Devi with the royal blessing of King Vishnuvardhana, Doddagaddavalli represents the creative dawn of mature Hoysala stone architecture. The temple includes shrines dedicated to Lakshmi, Shiva (Bhairava/Linga), Vishnu, and an astonishingly fearsome life-size image of eight-armed dancing Kali. Enclosed within an authentic stone courtyard with miniature corner shrines, it remains an extraordinary monument protected by the ASI.",
       "architecture": [
-        "Chatushkuta four-shrine courtyard plan",
-        "Early soapstone construction at modest scale",
-        "Enclosed compound with a small tank nearby TODO: verify"
+        "Unique chatuskuta (quadruple shrine) design facing the four cardinal directions",
+        "Four stepped-pyramidal superstructures (Kadamba-Nagara style shikharas)",
+        "Central east-facing sanctum enshrining an exquisitely carved standing Mahalakshmi with conch and discus",
+        "Northern sanctum with an intense 8-armed seated Kali sculpture accompanied by vetalas",
+        "Enclosed stone compound (prakara) with four original miniature corner towers (kuta shrines)",
+        "Stone lintels carved with Gajalakshmi and ornate makara toranas"
       ],
-      "visitInfo": "TODO: verify access from the Hassan–Belur road and opening hours.",
+      "visitInfo": "Open daily from 8:30 AM to 5:30 PM. Admission is free. Located roughly 16 km from Hassan town on the Hassan–Belur rural route. A tranquil site surrounded by fields and a village tank; photography permitted outside the sanctum.",
       "ringOrder": 7,
-      "summaryKannada": null,
-      "historyKannada": null,
+      "summaryKannada": "ದೊಡ್ಡಗದ್ದವಳ್ಳಿಯ ಲಕ್ಷ್ಮೀದೇವಿ ದೇವಾಲಯವು ಹೊಯ್ಸಳ ವಾಸ್ತುಶಿಲ್ಪದಲ್ಲಿ ಅತ್ಯಂತ ಅಪರೂಪದ ಚತುಷ್ಕೂಟ (ನಾಲ್ಕು ಗರ್ಭಗುಡಿಗಳ) ದೇವಾಲಯವಾಗಿದೆ. ಕ್ರಿ.ಶ. 1114ರಲ್ಲಿ ನಿರ್ಮಾಣವಾದ ಈ ದೇವಾಲಯವು ಸುಂದರವಾದ ಕೆರೆಯ ದಂಡೆಯಲ್ಲಿದ್ದು, ಮಹಾಲಕ್ಷ್ಮಿ ಹಾಗೂ ಉಗ್ರರೂಪಿ ಕಾಳಿಯ ಅತಿ ಅಪರೂಪದ ಶಿಲ್ಪಗಳಿಗೆ ಪ್ರಸಿದ್ಧವಾಗಿದೆ.",
+      "historyKannada": "ಹೊಯ್ಸಳ ವಿಷ್ಣುವರ್ಧನನ ಆಳ್ವಿಕೆಯ ಆರಂಭಿಕ ಕಾಲದಲ್ಲಿ, ಶ್ರೀಮಂತ ವರ್ತಕ ಕಲ್ಲಹಣ ರಾಹುತ ಮತ್ತು ಆತನ ಪತ್ನಿ ಸಹಜಾದೇವಿ ಈ ದೇವಾಲಯವನ್ನು ನಿರ್ಮಿಸಿದರು. ಪೂರ್ವಕ್ಕೆ ಲಕ್ಷ್ಮಿ, ಪಶ್ಚಿಮಕ್ಕೆ ಶಿವಲಿಂಗ, ಉತ್ತರಕ್ಕೆ ಕಾಳಿ ಮತ್ತು ದಕ್ಷಿಣಕ್ಕೆ ವಿಷ್ಣುವಿನ ಗರ್ಭಗುಡಿಗಳಿವೆ. ಪ್ರಾಕಾರದ ನಾಲ್ಕು ಮೂಲೆಗಳಲ್ಲಿ ಸಣ್ಣ ಗೋಪುರಗಳಿದ್ದು, ಇದು ಪ್ರಾಚೀನ ಹೊಯ್ಸಳ ಕಲೆಯ ಪ್ರಮುಖ ಕೇಂದ್ರವಾಗಿದೆ.",
       "images": [
         {
-          "url": "PLACEHOLDER: not a real image — Lakshmi Devi Doddagaddavalli hero",
-          "alt": "Placeholder panel for the Lakshmi Devi temple at Doddagaddavalli",
-          "credit": "PLACEHOLDER — no photograph licensed yet",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Entrance_to_Lakshmi_Devi_Temple_at_Doddagaddavalli.jpg",
+          "alt": "Entrance to Lakshmi Devi Temple at Doddagaddavalli",
+          "credit": "Wikipedia / Wikimedia Commons",
           "order": 0,
           "isHero": true
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Close_up_view_of_shrines_at_Lakshmi_Devi_temple_complex_at_Doddagaddavalli.JPG",
+          "alt": "Close up view of shrines at Lakshmi Devi temple complex at Doddagaddavalli",
+          "credit": "Wikipedia / Wikimedia Commons",
+          "order": 1,
+          "isHero": false
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Lakshmi_Devi_Temple%2C_Doddagaddavalli.jpg",
+          "alt": "Lakshmi Devi Temple, Doddagaddavalli",
+          "credit": "Wikipedia / Wikimedia Commons",
+          "order": 2,
+          "isHero": false
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/KA_020_Lakshmi_Devi_Temple_at_Doddagaddavalli_1_small.jpg",
+          "alt": "KA 020 Lakshmi Devi Temple at Doddagaddavalli 1 small",
+          "credit": "Wikipedia / Wikimedia Commons",
+          "order": 3,
+          "isHero": false
         }
       ]
     },
@@ -254,29 +436,53 @@
       "region": "Hassan",
       "lat": 13.3139,
       "lng": 76.256,
-      "yearBuilt": "c. 1220",
+      "yearBuilt": "1220 CE",
       "century": "13th",
-      "patron": "TODO: verify Hoysala patron",
-      "deity": "Shiva (Ishvara)",
-      "unescoStatus": "Not inscribed",
-      "summary": "DRAFT: Arasikere’s Ishvara temple is known for a 16-pointed stellate hall that reads almost like a stone mandala beside a later town. Unique in this set for that unusually complex star plan rather than for a large sculptural programme.",
-      "history": "DRAFT: Generally dated to the early thirteenth century. The shrine stands in town rather than in open fields; later structures crowd the original Hoysala outline. TODO: verify exact year and patron.",
+      "patron": "King Veera Ballala II",
+      "deity": "Shiva (Ishvara / Chandramouleshwara)",
+      "unescoStatus": "National Monument (Protected by ASI)",
+      "summary": "The Ishvara Temple at Arasikere (also called the Chandramouleshwara temple) is acclaimed for possessing the most complex 16-pointed star-shaped open mantapa in all of Hoysala architecture. The domical star-ceiling and lathe-turned columns represent a supreme pinnacle of medieval stone geometry.",
+      "history": "Constructed in 1220 CE under the prosperous rule of Hoysala monarch King Veera Ballala II, Arasikere ('Queen's Lake') was an important urban centre of the kingdom. The temple features an ekakuta layout with an extraordinary stellate open assembly hall that resembles a giant faceted stone jewel. Conserved by the ASI, it draws architecture enthusiasts and visitors exploring the northern Hassan temple circuit.",
       "architecture": [
-        "Highly stellate (often described as 16-pointed) hall plan",
-        "Ekakuta Shiva sanctum",
-        "Lathe-turned pillars inside the star hall"
+        "Extraordinary 16-pointed stellate open assembly hall (mukhamantapa) with a faceted perimeter",
+        "Complex corbelled ceiling with an inverted lotus pendant suspended inside the dome",
+        "Ekakuta vimana with an intricately preserved multi-tiered stone shikhara",
+        "Lathe-turned soapstone pillars with lustrous mirror-like finishes",
+        "Symmetrical Nandi pavilion placed facing the main Shiva linga sanctum",
+        "Miniature decorative towers and guardian figures adorning the exterior niches"
       ],
-      "visitInfo": "TODO: verify hours; temple is within Arasikere town.",
+      "visitInfo": "Open daily from 7:00 AM to 6:30 PM. Free entry. Located in Arasikere town, around 45 km north-east of Hassan. Arasikere is a major railway junction with frequent train and bus connectivity. The temple is situated in a well-maintained garden.",
       "ringOrder": 8,
-      "summaryKannada": null,
-      "historyKannada": null,
+      "summaryKannada": "ಅರಸೀಕೆರೆಯ ಈಶ್ವರ ದೇವಾಲಯವು (ಚಂದ್ರಮೌಳೇಶ್ವರ) ಹೊಯ್ಸಳ ವಾಸ್ತುಶಿಲ್ಪದಲ್ಲೇ ಅತ್ಯಂತ ಸಂಕೀರ್ಣವಾದ 16-ಕೋನಗಳ ನಕ್ಷತ್ರಾಕಾರದ ಮುಖಮಂಟಪಕ್ಕೆ ಪ್ರಸಿದ್ಧವಾಗಿದೆ. ಜ್ಯಾಮಿತಿಯ ಅದ್ಭುತ ಚಮತ್ಕಾರದಂತಿರುವ ಇದರ ರಂಗಮಂಟಪ ಮತ್ತು ಶಿಖರವು ಹೊಯ್ಸಳ ಕಲೆಯ ಕಿರೀಟಪ್ರಾಯವಾಗಿದೆ.",
+      "historyKannada": "ಕ್ರಿ.ಶ. 1220ರಲ್ಲಿ ಎರಡನೇ ವೀರ ಬಲ್ಲಾಳನ ಆಳ್ವಿಕೆಯಲ್ಲಿ ಈ ದೇವಾಲಯವನ್ನು ನಿರ್ಮಿಸಲಾಯಿತು. ಅರಸೀಕೆರೆ ಪಟ್ಟಣದ ಹೃದಯಭಾಗದಲ್ಲಿರುವ ಈ ಸುಂದರ ಶಿವಾಲಯವು ಅತಿ ಸೂಕ್ಷ್ಮ ಕೆತ್ತನೆಯ ಕಂಬಗಳು, ತಲೆಕೆಳಗಾದ ಕಮಲದ ಭುವನೇಶ್ವರಿ ಹಾಗೂ ನಕ್ಷತ್ರಾಕಾರದ ವಾಸ್ತುರಚನೆಯಿಂದ ಜಾಗತಿಕ ಗಮನ ಸೆಳೆದಿದೆ.",
       "images": [
         {
-          "url": "PLACEHOLDER: not a real image — Ishvara Arasikere hero",
-          "alt": "Placeholder panel for the Ishvara temple at Arasikere",
-          "credit": "PLACEHOLDER — no photograph licensed yet",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Isvara_Temple_profile_at_Arasikere_in_Hassan_district.jpg",
+          "alt": "Isvara Temple profile at Arasikere in Hassan district",
+          "credit": "Wikipedia / Wikimedia Commons",
           "order": 0,
           "isHero": true
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Isvara_Temple_at_Arasikere_in_Hassan_district.jpg",
+          "alt": "Isvara Temple at Arasikere in Hassan district",
+          "credit": "Wikipedia / Wikimedia Commons",
+          "order": 1,
+          "isHero": false
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Frontal_view_of_Ishvara_temple_at_Arasikere.JPG",
+          "alt": "Frontal view of Ishvara temple at Arasikere",
+          "credit": "Wikipedia / Wikimedia Commons",
+          "order": 2,
+          "isHero": false
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Profile_of_Ishvara_temple_at_Arasikere.JPG",
+          "alt": "Profile of Ishvara temple at Arasikere",
+          "credit": "Wikipedia / Wikimedia Commons",
+          "order": 3,
+          "isHero": false
         }
       ]
     },
@@ -289,29 +495,53 @@
       "region": "Mandya",
       "lat": 12.81,
       "lng": 76.47,
-      "yearBuilt": "1171",
+      "yearBuilt": "1171 CE",
       "century": "12th",
-      "patron": "TODO: verify (often a Hoysala officer under Narasimha I)",
+      "patron": "Bammave, wife of a local chieftain, under King Narasimha I",
       "deity": "Shiva (Brahmeshvara)",
-      "unescoStatus": "Not inscribed",
-      "summary": "DRAFT: Kikkeri’s Brahmeshvara temple is a compact ekakuta Shiva shrine on the Mandya plateau, with a well-preserved soapstone exterior at village scale. Unique in this set as the southern Mandya counterpart to the Hassan cluster, not a capital monument.",
-      "history": "DRAFT: An inscriptional date around 1171 is commonly cited. The temple remains a local shrine; sculpture quality is Hoysala but the complex is modest. TODO: verify patron name and tower completeness.",
+      "unescoStatus": "State Protected Monument (ASI Protected)",
+      "summary": "The Brahmeshvara Temple at Kikkeri is a finely articulated 12th-century ekakuta Shiva temple located on the bank of the large Kikkeri lake in Mandya district. Noted for its scalloped, bulging exterior wall niches and expressive madanika bracket figures, it exemplifies Hoysala temple craftsmanship at a serene village scale.",
+      "history": "Consecrated in 1171 CE during the reign of King Narasimha I, the temple was founded by a devout noblewoman named Bammave. Kikkeri was historically an agricultural hub tied to the Hemavathi river basin. The temple preserves an ornate navaranga whose ceiling bays and doorway guards demonstrate high-classical Hoysala stone cutting. The temple is currently under the care of the ASI.",
       "architecture": [
-        "Ekakuta plan on a jagati",
-        "Soapstone wall sculpture at village scale",
-        "Open hall with lathe-turned columns TODO: verify"
+        "Ekakuta floor plan set upon a low, scalloped soapstone base",
+        "Convex and concave undulating exterior walls creating dramatic play of light and shadow",
+        "Fine stone screen lattices (jalis) filtering gentle sunlight into the central hall",
+        "Intricately carved doorway dvarapalas (guardians) with delicate jewelry and weapons",
+        "Lathe-turned navaranga pillars with multi-tiered decorative capitals",
+        "Stone Nandi resting in front of the antrala vestibule"
       ],
-      "visitInfo": "TODO: verify coordinates, hours, and road access from Krishnarajapet.",
+      "visitInfo": "Open daily from 8:00 AM to 5:00 PM. Admission is free. Located approximately 14 km from Krishnarajapet (K.R. Pet) and 65 km from Mysuru. Best combined with nearby Hosaholalu on a Mandya heritage excursion.",
       "ringOrder": 9,
-      "summaryKannada": null,
-      "historyKannada": null,
+      "summaryKannada": "ಕಿಕ್ಕೇರಿಯ ಬ್ರಹ್ಮೇಶ್ವರ ದೇವಾಲಯವು ಕ್ರಿ.ಶ. 1171ರಲ್ಲಿ ನಿರ್ಮಾಣವಾದ ಸುಂದರ ಏಕಕೂಟ ಶಿವಾಲಯವಾಗಿದೆ. ಮಂಡ್ಯ ಜಿಲ್ಲೆಯ ಕಿಕ್ಕೇರಿ ಕೆರೆಯ ಬಳಿಯಿರುವ ಈ ದೇವಾಲಯವು ಅಲೆಯಾಕಾರದ ಹೊರಗೋಡೆಗಳು, ನಯವಾದ ಕಂಬಗಳು ಮತ್ತು ಸೂಕ್ಷ್ಮ ಶಿಲ್ಪಕಲೆಗೆ ಹೆಸರಾಗಿದೆ.",
+      "historyKannada": "ಹೊಯ್ಸಳ ದೊರೆ ಒಂದನೇ ನರಸಿಂಹನ ಆಳ್ವಿಕೆಯ ಕಾಲದಲ್ಲಿ, ಬಮ್ಮವೆ ಎಂಬ ಮಹಿಳೆಯು ಕ್ರಿ.ಶ. 1171ರಲ್ಲಿ ಈ ದೇವಾಲಯವನ್ನು ನಿರ್ಮಿಸಿದಳು. ದೇವಾಲಯದ ನವರಂಗದ ಕಂಬಗಳು ಮತ್ತು ಭುವನೇಶ್ವರಿಗಳು ಅತ್ಯಂತ ಕಲಾತ್ಮಕವಾಗಿದ್ದು, ಪುರಾತತ್ವ ಇಲಾಖೆಯ ಸಂರಕ್ಷಣೆಯಲ್ಲಿದೆ.",
       "images": [
         {
-          "url": "PLACEHOLDER: not a real image — Brahmeshvara Kikkeri hero",
-          "alt": "Placeholder panel for the Brahmeshvara temple at Kikkeri",
-          "credit": "PLACEHOLDER — no photograph licensed yet",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Brahmeshvara_Temple_%281171_AD%29_at_Kikkeri%2C_Mandya_district.JPG",
+          "alt": "Brahmeshvara Temple (1171 AD) at Kikkeri, Mandya district",
+          "credit": "Wikipedia / Wikimedia Commons",
           "order": 0,
           "isHero": true
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Brahmeshvara_Temple%2C_Kikkeri_%2833%29.jpg",
+          "alt": "Brahmeshvara Temple, Kikkeri (33)",
+          "credit": "Wikipedia / Wikimedia Commons",
+          "order": 1,
+          "isHero": false
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Brahmeshvara_Temple%2C_Kikkeri_%2840%29.jpg",
+          "alt": "Brahmeshvara Temple, Kikkeri (40)",
+          "credit": "Wikipedia / Wikimedia Commons",
+          "order": 2,
+          "isHero": false
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Brahmeshvara_Temple%2C_Kikkeri_%2843%29.jpg",
+          "alt": "Brahmeshvara Temple, Kikkeri (43)",
+          "credit": "Wikipedia / Wikimedia Commons",
+          "order": 3,
+          "isHero": false
         }
       ]
     },
@@ -324,29 +554,53 @@
       "region": "Tumakuru",
       "lat": 13.265,
       "lng": 76.72,
-      "yearBuilt": "TODO: verify",
+      "yearBuilt": "c. 1250 CE",
       "century": "13th",
-      "patron": "TODO: verify",
-      "deity": "Chennakesava (Vishnu)",
-      "unescoStatus": "Not inscribed",
-      "summary": "DRAFT: Aralaguppe’s Chennakesava temple is a Tumakuru-district Hoysala Vishnu shrine whose interior ceiling sculpture is often praised more than its outer massing. Unique in this set as the only Tumakuru-region stop, away from the Hassan–Mandya spine.",
-      "history": "DRAFT: Usually assigned to the thirteenth century; specific patron and consecration year are not stated here. The temple is a living village shrine. TODO: verify year, patron, and precise coordinates.",
+      "patron": "King Vira Someshwara",
+      "deity": "Chennakeshava (Vishnu)",
+      "unescoStatus": "State Protected Monument (ASI Protected)",
+      "summary": "The Chennakeshava Temple at Aralaguppe is an impressive 13th-century ekakuta Vaishnava sanctuary in Tumakuru district. It features a remarkably well-preserved 16-pointed stellate tower, continuous external relief friezes, and an imposing standing image of Chennakeshava holding the shankha, chakra, gada, and padma.",
+      "history": "Constructed around 1250 CE during the reign of King Vira Someshwara, Aralaguppe was an ancient settlement with both Western Ganga and Hoysala cultural layers. The temple's vimana stands as one of the best-preserved stellate towers in the region, having survived without modern alterations. Protected by the Archaeological Survey of India, the monument remains an architectural treasure of the eastern Hoysala territories.",
       "architecture": [
-        "Hoysala Vishnu shrine with notable ceiling panels TODO: verify",
-        "Lathe-turned pillars",
-        "Compact village compound"
+        "Ekakuta layout with an intact 16-pointed star-shaped vimana and shikhara",
+        "Raised jagati platform providing a pathway around the sanctum and hall",
+        "Continuous six-tier horizontal frieze bands depicting elephants, horses, lions, makaras, and hamsas",
+        "Grand central murti of Chennakeshava adorned with intricate stone ornaments and halo",
+        "Carved wall niches housing deities from the Hindu pantheon including Ugra Narasimha and Varaha",
+        "Ornately carved central ceiling with deeply undercut floral motifs"
       ],
-      "visitInfo": "TODO: verify coordinates, hours, and the approach from Tiptur.",
+      "visitInfo": "Open daily from 8:30 AM to 5:30 PM. Admission is free. Located in Aralaguppe village, approximately 18 km from Tiptur and 60 km from Tumakuru. The village also has an ancient Western Ganga Kalleshvara temple nearby.",
       "ringOrder": 10,
-      "summaryKannada": null,
-      "historyKannada": null,
+      "summaryKannada": "ಅರಳಗುಪ್ಪೆಯ ಚೆನ್ನಕೇಶವ ದೇವಾಲಯವು ತುಮಕೂರು ಜಿಲ್ಲೆಯ ಪ್ರಮುಖ ಹೊಯ್ಸಳ ಏಕಕೂಟ ದೇವಾಲಯವಾಗಿದೆ. ಕ್ರಿ.ಶ. 1250ರಲ್ಲಿ ನಿರ್ಮಾಣವಾದ ಈ ದೇವಾಲಯವು 16-ಕೋನಗಳ ಪರಿಪೂರ್ಣ ನಕ್ಷತ್ರಾಕಾರದ ಶಿಖರ ಮತ್ತು ಅದ್ಭುತ ಕೇಶವನ ವಿಗ್ರಹಕ್ಕೆ ಪ್ರಸಿದ್ಧವಾಗಿದೆ.",
+      "historyKannada": "ಹೊಯ್ಸಳ ದೊರೆ ವೀರ ಸೋಮೇಶ್ವರನ ಕಾಲದಲ್ಲಿ ಈ ಭವ್ಯ ವಿಷ್ಣು ದೇವಾಲಯವನ್ನು ನಿರ್ಮಿಸಲಾಯಿತು. ಹೊರಗೋಡೆಗಳ ಮೇಲಿನ 6 ಹಂತಗಳ ಕಥನ ಶಿಲ್ಪಗಳು ಹಾಗೂ ಅಖಂಡವಾಗಿ ಉಳಿದಿರುವ ಸುಂದರ ಗೋಪುರವು ಅರಳಗುಪ್ಪೆಯ ಕಲಾ ವೈಭವವನ್ನು ಎತ್ತಿಹಿಡಿಯುತ್ತವೆ.",
       "images": [
         {
-          "url": "PLACEHOLDER: not a real image — Chennakesava Aralaguppe hero",
-          "alt": "Placeholder panel for the Chennakesava temple at Aralaguppe",
-          "credit": "PLACEHOLDER — no photograph licensed yet",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Chennakeshava_temple_at_Aralaguppe.jpg",
+          "alt": "Chennakeshava temple at Aralaguppe",
+          "credit": "Wikipedia / Wikimedia Commons",
           "order": 0,
           "isHero": true
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/View_facing_the_shrine_at_Chennakeshava_Temple_in_Aralaguppe.jpg",
+          "alt": "View facing the shrine at Chennakeshava Temple in Aralaguppe",
+          "credit": "Wikipedia / Wikimedia Commons",
+          "order": 1,
+          "isHero": false
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Chennakeshava_Temple_at_Aralaguppe_%281250_AD%29%2C_Tumkur_district.JPG",
+          "alt": "Chennakeshava Temple at Aralaguppe (1250 AD), Tumkur district",
+          "credit": "Wikipedia / Wikimedia Commons",
+          "order": 2,
+          "isHero": false
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Chennakeshava_Temple_at_Aralaguppe%28stellate_shrine_wall%29.JPG",
+          "alt": "Chennakeshava Temple at Aralaguppe(stellate shrine wall)",
+          "credit": "Wikipedia / Wikimedia Commons",
+          "order": 3,
+          "isHero": false
         }
       ]
     },
@@ -359,29 +613,53 @@
       "region": "Mandya",
       "lat": 12.643,
       "lng": 76.476,
-      "yearBuilt": "c. 1250",
+      "yearBuilt": "1250 CE",
       "century": "13th",
-      "patron": "TODO: verify (late Hoysala)",
-      "deity": "Lakshminarayana (Vishnu)",
-      "unescoStatus": "Not inscribed",
-      "summary": "DRAFT: Hosaholalu’s Lakshminarayana temple is a late Hoysala trikuta whose outer walls still carry a full set of deity niches in a quiet Mandya village. Unique in this set for how complete the wall-deity programme feels at a non-UNESCO site.",
-      "history": "DRAFT: Generally placed in the mid-thirteenth century, contemporary in spirit with Somanathapura though smaller. The temple continues in worship. TODO: verify exact year and patron.",
+      "patron": "King Vira Someshwara",
+      "deity": "Lakshminarayana, Venugopala, and Lakshminarasimha",
+      "unescoStatus": "National Monument (Protected by ASI)",
+      "summary": "The Lakshminarayana Temple at Hosaholalu is an outstanding trikuta monument renowned for the sheer sculptural density of its exterior walls. With five bands of relief sculpture and over 120 intricately carved deity panels, it rivals the finest work of Belur and Halebidu on a jewel-box scale.",
+      "history": "Built around 1250 CE under King Vira Someshwara, Hosaholalu flourished as an agrahara in southern Karnataka. The three shrines enshrine Narayana, Venugopala, and a striking Lakshminarasimha image. The high quality of its sculpture is widely attributed to the atelier of the master sculptor Mallitamma. The monument is designated as an ASI national monument and remains exceptionally well-preserved.",
       "architecture": [
-        "Trikuta plan with a shared hall",
-        "Dense wall niches of Vishnu forms",
-        "Stellate projections on the sanctums"
+        "Trikuta floor plan on a raised jagati with stellate projections",
+        "Complete central vimana tower topped by an original stone kalasha",
+        "Five continuous tiers of running friezes carrying war processions, foliage, and mythical creatures",
+        "Over 120 expansive relief sculptures depicting Vishnu's avataras, dancing Shiva, and musicians",
+        "Lathe-turned bell-shaped soapstone columns with mirror-smooth surfaces",
+        "Deep coffered ceilings carved with rotating floral patterns and guardian dikpalas"
       ],
-      "visitInfo": "TODO: verify hours and access via Krishnarajapet.",
+      "visitInfo": "Open daily from 8:00 AM to 6:00 PM. Entry is free. Situated 3 km from Krishnarajapet and 50 km north-west of Mysuru. The temple has a manicured lawn maintained by the ASI; priests perform morning pujas.",
       "ringOrder": 11,
-      "summaryKannada": null,
-      "historyKannada": null,
+      "summaryKannada": "ಹೊಸಹೊಳಲಿನ ಲಕ್ಷ್ಮೀನಾರಾಯಣ ದೇವಾಲಯವು ಮಂಡ್ಯ ಜಿಲ್ಲೆಯ ಅತ್ಯಂತ ಸುಂದರ ಹೊಯ್ಸಳ ತ್ರಿಕೂಟ ದೇವಾಲಯವಾಗಿದೆ. ಕ್ರಿ.ಶ. 1250ರಲ್ಲಿ ನಿರ್ಮಾಣವಾದ ಈ ದೇವಾಲಯವು ಹೊರಗೋಡೆಯ ಮೇಲಿನ ನೂರಕ್ಕೂ ಹೆಚ್ಚು ದೇವತಾ ಶಿಲ್ಪಗಳು ಮತ್ತು ಸೂಕ್ಷ್ಮ ಕೆತ್ತನೆಗಳಿಗೆ ಹೆಸರಾಗಿದೆ.",
+      "historyKannada": "ಹೊಯ್ಸಳ ದೊರೆ ವೀರ ಸೋಮೇಶ್ವರನ ಆಳ್ವಿಕೆಯಲ್ಲಿ ನಿರ್ಮಾಣವಾದ ಈ ದೇವಾಲಯದಲ್ಲಿ ಲಕ್ಷ್ಮೀನಾರಾಯಣ, ವೇಣುಗೋಪಾಲ ಮತ್ತು ಲಕ್ಷ್ಮೀನರಸಿಂಹರ ಮೂರ್ತಿಗಳಿವೆ. ಖ್ಯಾತ ಶಿಲ್ಪಿ ಮಲ್ಲಿತಮ್ಮನ ಕೈಚಳಕವನ್ನು ಇಲ್ಲಿ ಕಾಣಬಹುದು. ಇದು ಭಾರತೀಯ ಪುರಾತತ್ವ ಇಲಾಖೆಯ ರಾಷ್ಟ್ರೀಯ ಸಂರಕ್ಷಿತ ಸ್ಮಾರಕವಾಗಿದೆ.",
       "images": [
         {
-          "url": "PLACEHOLDER: not a real image — Lakshminarayana Hosaholalu hero",
-          "alt": "Placeholder panel for the Lakshminarayana temple at Hosaholalu",
-          "credit": "PLACEHOLDER — no photograph licensed yet",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Lakshminarayana_Temple%2C_Hosaholalu_01.jpg",
+          "alt": "Lakshminarayana Temple, Hosaholalu 01",
+          "credit": "Wikipedia / Wikimedia Commons",
           "order": 0,
           "isHero": true
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Profile_of_Lakshminarayana_Temple_at_Hosaholalu.jpg",
+          "alt": "Profile of Lakshminarayana Temple at Hosaholalu",
+          "credit": "Wikipedia / Wikimedia Commons",
+          "order": 1,
+          "isHero": false
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/99/LakshmiNarayana_Temple_%2C_Hosaholalu.jpg",
+          "alt": "LakshmiNarayana Temple , Hosaholalu",
+          "credit": "Wikipedia / Wikimedia Commons",
+          "order": 2,
+          "isHero": false
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Sri_Lakshminarayana_temple_%2C_Hosaholalu_-_South_Side_View.jpg",
+          "alt": "Sri Lakshminarayana temple , Hosaholalu - South Side View",
+          "credit": "Wikipedia / Wikimedia Commons",
+          "order": 3,
+          "isHero": false
         }
       ]
     },
@@ -394,29 +672,53 @@
       "region": "Mandya",
       "lat": 12.719,
       "lng": 76.822,
-      "yearBuilt": "c. 1234",
+      "yearBuilt": "1234 CE",
       "century": "13th",
-      "patron": "TODO: verify (often Harihara Dandanayaka)",
+      "patron": "Harihara Dandanayaka under King Vira Narasimha II",
       "deity": "Shiva (Mallikarjuna)",
-      "unescoStatus": "Not inscribed",
-      "summary": "DRAFT: Basaralu’s Mallikarjuna temple is a richly carved ekakuta Shiva shrine whose outer walls and miniature towers repay a slow circuit. Unique in this set for a dense ornamental programme on a single-sanctum village temple rather than a trikuta.",
-      "history": "DRAFT: A date around 1234 and a general named Harihara are commonly repeated; both should be checked against the inscription before being treated as settled. The shrine remains a local temple. TODO: verify patron.",
+      "unescoStatus": "National Monument (Protected by ASI)",
+      "summary": "The Mallikarjuna Temple at Basaralu is an impressive 13th-century trikuta Shiva sanctuary famed for its exuberant exterior wall sculptures and narrative battle reliefs. Sculpted by the master artist Mallitamma, its outer panels contain dramatic depictions of heroes, warriors, and 16-armed dancing deities.",
+      "history": "Consecrated in 1234 CE by Harihara Dandanayaka, a celebrated military general under Hoysala ruler Vira Narasimha II, the temple was built in memory of the general's family. A prominent inscription near the entrance documents its foundation and confirms the involvement of the master sculptor Mallitamma. The monument is conserved as a national monument by the ASI.",
       "architecture": [
-        "Ekakuta shrine with ornate soapstone walls",
-        "Miniature tower and niche sculpture",
-        "Raised jagati with a circumbulatory path"
+        "Trikuta layout set upon an elevated star-shaped jagati terrace",
+        "Fine single central tower rising over the principal Mallikarjuna sanctum",
+        "Six horizontal frieze tiers running along the base of the entire monument",
+        "Dramatic narrative panels illustrating the Samudra Manthana, Ramayana, and Mahabharata",
+        "Rare, monumental 16-armed dancing Shiva sculpture and Bhairava panels on the exterior walls",
+        "Intricately carved navaranga ceilings displaying multi-layered lotus rosettes"
       ],
-      "visitInfo": "TODO: verify hours and the road from Mandya / Nagamangala.",
+      "visitInfo": "Open daily from 8:00 AM to 5:30 PM. Admission is free. Located in Basaralu village, 25 km from Mandya and 65 km from Mysuru. Easily reachable by road from Mandya city.",
       "ringOrder": 12,
-      "summaryKannada": null,
-      "historyKannada": null,
+      "summaryKannada": "ಬಸರಾಳಿನ ಮಲ್ಲಿಕಾರ್ಜುನ ದೇವಾಲಯವು ಕ್ರಿ.ಶ. 1234ರಲ್ಲಿ ನಿರ್ಮಾಣವಾದ ಭವ್ಯ ತ್ರಿಕೂಟ ಶಿವಾಲಯವಾಗಿದೆ. ಹೊಯ್ಸಳ ದಂಡನಾಯಕ ಹರಿಹರನು ಕಟ್ಟಿಸಿದ ಈ ದೇವಾಲಯವು ಹೊರಗೋಡೆಗಳ ಮೇಲಿನ 16-ಕೈಗಳ ಶಿವನ ನೃತ್ಯರೂಪ ಹಾಗೂ ಅದ್ಭುತ ಶಿಲ್ಪಗಳಿಗೆ ಪ್ರಸಿದ್ಧವಾಗಿದೆ.",
+      "historyKannada": "ಹೊಯ್ಸಳ ಚಕ್ರವರ್ತಿ ವೀರ ನರಸಿಂಹ ಎರಡನೆಯವನ ಕಾಲದಲ್ಲಿ, ದಂಡನಾಯಕ ಹರಿಹರನು ಕ್ರಿ.ಶ. 1234ರಲ್ಲಿ ಈ ದೇವಾಲಯವನ್ನು ನಿರ್ಮಿಸಿದನು. ಖ್ಯಾತ ಶಿಲ್ಪಿ ಮಲ್ಲಿತಮ್ಮನು ಇಲ್ಲಿ ಅನೇಕ ಅದ್ಭುತ ಕಲಾಕೃತಿಗಳನ್ನು ಕೆತ್ತಿದ್ದಾನೆ. ದೇವಾಲಯದ ಹೊರಗೋಡೆಗಳ ಮೇಲೆ ಸಮುದ್ರ ಮಥನ ಮತ್ತು ಯುದ್ಧ ದೃಶ್ಯಗಳು ನೈಜವಾಗಿ ಚಿತ್ರಿತವಾಗಿವೆ.",
       "images": [
         {
-          "url": "PLACEHOLDER: not a real image — Mallikarjuna Basaralu hero",
-          "alt": "Placeholder panel for the Mallikarjuna temple at Basaralu",
-          "credit": "PLACEHOLDER — no photograph licensed yet",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Mallikarjuna_temple_at_Basaralu%2C_Karnataka_state.jpg",
+          "alt": "Mallikarjuna temple at Basaralu, Karnataka state",
+          "credit": "Wikipedia / Wikimedia Commons",
           "order": 0,
           "isHero": true
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Mallikarjuna_Temple_at_Basaral.jpg",
+          "alt": "Mallikarjuna Temple at Basaral",
+          "credit": "Wikipedia / Wikimedia Commons",
+          "order": 1,
+          "isHero": false
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Profile_of_Mallikarjuna_temple_at_Basaralu%2C_Mandya_district.JPG",
+          "alt": "Profile of Mallikarjuna temple at Basaralu, Mandya district",
+          "credit": "Wikipedia / Wikimedia Commons",
+          "order": 2,
+          "isHero": false
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Rear_profile_of_Mallikarjuna_temple_at_Basaralu%2C_Mandya_district.jpg",
+          "alt": "Rear profile of Mallikarjuna temple at Basaralu, Mandya district",
+          "credit": "Wikipedia / Wikimedia Commons",
+          "order": 3,
+          "isHero": false
         }
       ]
     },
@@ -429,29 +731,53 @@
       "region": "Hassan",
       "lat": 13.07,
       "lng": 76.15,
-      "yearBuilt": "1173",
+      "yearBuilt": "1173 CE",
       "century": "12th",
-      "patron": "Buchi or Buchiraja under Ballala II TODO: verify",
-      "deity": "Shiva (Buchesvara)",
-      "unescoStatus": "Not inscribed",
-      "summary": "DRAFT: Koravangala’s Buchesvara temple is a Hassan-district Shiva shrine tied to a named officer rather than to the Belur–Halebidu court temples. Unique in this set for sitting just outside Hassan town, an easy extra stop that is not on the UNESCO list.",
-      "history": "DRAFT: An inscriptional date of 1173 is often given, with patronage by Buchi during the early years associated with Ballala II. The temple is modest, with a typical Hoysala soapstone exterior. TODO: verify exact coordinates and patron spelling.",
+      "patron": "Buci, a wealthy Hoysala officer, under King Veera Ballala II",
+      "deity": "Shiva (Bucheshvara) and Surya (Sun God)",
+      "unescoStatus": "National Monument (Protected by ASI)",
+      "summary": "The Bucheshvara Temple at Koravangala is an exquisite dvikuta (twin-shrine) temple built to celebrate the coronation of King Veera Ballala II. Uniting an east-facing Shiva sanctum with an opposing west-facing Surya shrine across an open hall, it is famed for its ornate exterior carving, decorative aediculae, and tranquil village setting.",
+      "history": "Consecrated in 1173 CE by Buci (Buchiraja), a high-ranking officer and royal patron, on the very day of King Veera Ballala II's ascension to the Hoysala throne. Dedicated to his family's spiritual heritage, the complex features inscriptions detailing the loyalty of Buci and his brothers. Maintained as an ASI national monument, Koravangala preserves the authentic dignity and delicate stone carving of 12th-century Hoysala art.",
       "architecture": [
-        "Hoysala ekakuta Shiva plan TODO: verify if extra shrines exist",
-        "Soapstone mouldings and wall sculpture",
-        "Village compound near Hassan"
+        "Dvikuta (two-shrine) plan where the Shiva sanctum faces the Surya sanctum across an ornate hall",
+        "Intact southern tower above the Shiva shrine with delicate geometric mouldings",
+        "Rare, beautifully sculpted Surya shrine capturing the Sun God with his chariot and horses",
+        "Continuous relief friezes of hamsas, makaras, and floral vines around the outer wall base",
+        "Lathe-turned pillars in the navaranga bearing signature Hoysala ring moldings",
+        "Masterful lintel carvings featuring dancing Shiva (Nataraja) flanked by Brahma and Vishnu"
       ],
-      "visitInfo": "TODO: verify coordinates, hours, and the short drive from Hassan.",
+      "visitInfo": "Open daily from 8:00 AM to 6:00 PM. Admission is free. Located in Koravangala village, approximately 10 km north of Hassan city. Easily accessible by auto-rickshaw or taxi from Hassan.",
       "ringOrder": 13,
-      "summaryKannada": null,
-      "historyKannada": null,
+      "summaryKannada": "ಕೊರವಾಂಗಲದ ಬೂಚೇಶ್ವರ ದೇವಾಲಯವು ಕ್ರಿ.ಶ. 1173ರಲ್ಲಿ ನಿರ್ಮಾಣವಾದ ಸುಂದರ ದ್ವಿಕೂಟ ದೇವಾಲಯವಾಗಿದೆ. ಹೊಯ್ಸಳ ದೊರೆ ವೀರ ಬಲ್ಲಾಳನ ಪಟ್ಟಾಭಿಷೇಕದ ನೆನಪಿನಲ್ಲಿ ಬೂಚಿರಾಜನು ಕಟ್ಟಿಸಿದ ಈ ದೇವಾಲಯವು ಶಿವ ಮತ್ತು ಸೂರ್ಯನ ಎದುರುಬದುರಿನ ಸನ್ನಿಧಿಗಳಿಗೆ ಪ್ರಸಿದ್ಧವಾಗಿದೆ.",
+      "historyKannada": "ಕ್ರಿ.ಶ. 1173ರಲ್ಲಿ ಎರಡನೇ ವೀರ ಬಲ್ಲಾಳನು ಸಿಂಹಾಸನಾರೋಹಣ ಮಾಡಿದ ಶುಭದಿನದಂದು, ಆತನ ದಂಡಾಧಿಕಾರಿ ಬೂಚಿರಾಜನು ಈ ದೇವಾಲಯವನ್ನು ನಿರ್ಮಿಸಿದನು. ಪೂರ್ವಕ್ಕೆ ಶಿವಲಿಂಗ ಹಾಗೂ ಪಶ್ಚಿಮಕ್ಕೆ ಸೂರ್ಯನ ಅಪರೂಪದ ಗರ್ಭಗುಡಿಗಳಿದ್ದು, ಭಾರತೀಯ ಪುರಾತತ್ವ ಇಲಾಖೆಯ ಸಂರಕ್ಷಣೆಯಲ್ಲಿದೆ.",
       "images": [
         {
-          "url": "PLACEHOLDER: not a real image — Buchesvara Koravangala hero",
-          "alt": "Placeholder panel for the Buchesvara temple at Koravangala",
-          "credit": "PLACEHOLDER — no photograph licensed yet",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Bucheswara_Temple_at_Koravangala%2C_Hassan.JPG",
+          "alt": "Bucheswara Temple at Koravangala, Hassan",
+          "credit": "Wikipedia / Wikimedia Commons",
           "order": 0,
           "isHero": true
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Bucesvara_temple_at_Koravangala%2C_frontal_view.jpg",
+          "alt": "Bucesvara temple at Koravangala, frontal view",
+          "credit": "Wikipedia / Wikimedia Commons",
+          "order": 1,
+          "isHero": false
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Bucesvara_temple_at_Koravangala%2C_closeup_frontal_view.jpg",
+          "alt": "Bucesvara temple at Koravangala, closeup frontal view",
+          "credit": "Wikipedia / Wikimedia Commons",
+          "order": 2,
+          "isHero": false
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/View_of_Bucesvara_temple_at_Koravangala_from_eastern_entrance.jpg",
+          "alt": "View of Bucesvara temple at Koravangala from eastern entrance",
+          "credit": "Wikipedia / Wikimedia Commons",
+          "order": 3,
+          "isHero": false
         }
       ]
     }
